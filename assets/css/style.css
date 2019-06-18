@@ -1,0 +1,208 @@
+ @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,500i,700|Raleway:400&display=swap');
+
+
+
+/* Typography
+ * ----------------------------------------------
+ */
+
+h1, h1 a {
+  font-family: 'Cormorant Garamond', serif;
+  display: table;
+  font-size: 42px;
+  line-height: 46px;
+  margin: 20px auto 40px auto;
+  font-style: italic;
+  font-weight: 500;
+}
+
+h2, h2 a {
+  font-family: Raleway, sans-serif;
+  letter-spacing: 2px;
+  display: table;
+  font-size: 28px;
+}
+
+h3, h3 a {
+  font-family: 'Cormorant Garamond', serif;
+  display: table;
+  font-weight: 300;
+  margin-bottom: 5px;
+  margin-top: 40px;
+  text-transform: uppercase;
+  font-size: 26px;
+  line-height: 26px;
+}
+
+
+body, p, li, span, ol, ul, table, a {
+  font-size: 17px;
+  font-family: Raleway, sans-serif;;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  line-height: 22px;
+}
+
+footer {
+  font-size: 18px;
+}
+
+main p a, main li a {
+  text-decoration: underline;
+}
+
+strong {
+  font-weight: 700;
+}
+
+nav .page-link {
+  font-family: Raleway, sans-serif;;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+  font-size: 18px;
+}
+
+.logo h1 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.logo h1 a {
+  letter-spacing: 3px;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  padding: 0;
+  text-decoration: none;
+}
+
+
+
+/* Layout
+ * ----------------------------------------------
+ */
+
+/* reset body */
+body {
+  margin: 0;
+}
+
+header {
+  padding: 0 25px;
+}
+
+
+.wrapper {
+  max-width: -webkit-calc(1000px - (30px * 2));
+  max-width: calc(1000px - (30px * 2));
+}
+
+.text-center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+
+
+.logo { 
+  float: left;
+}
+.main-menu {
+  float:right;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+
+/* Styles and colours
+ * ----------------------------------------------
+ */
+body {
+  background: #fff;
+}
+
+h1, h1 a, h2, h2 a, h3, h3 a {
+  color: #000;
+}
+
+p, a, a:hover, a:active, a:visited {
+  color: #363435 !important;
+}
+
+.site-header, .site-footer {
+  border: 0;
+}
+
+.site-footer {
+  margin-top: 100px;
+}
+
+
+/* Page elements 
+ * ----------------------------------------------
+ */
+.page-image {
+  padding-right: 30px;
+  padding-left: 30px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (min-width: 1200px) {
+  .page-image {
+    max-width: 80vw;
+  }
+}
+@media (max-width: 1199px) {
+  .page-image {
+    max-width: -webkit-calc(1000px - (30px * 2));
+    max-width: calc(1000px - (30px * 2));
+  }
+}
+
+.bio-img {
+  filter: grayscale(1);
+  max-width: 50%;
+  float: left;
+  display: block;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  transition: filter 0.3s ease-in;
+}
+
+.bio-img:hover {
+  filter: grayscale(0);
+  transition: filter 0.3s ease-in;
+}
+
+
+.btn, .btn:active, .btn:visited {
+  display: table;
+  padding: 8px 30px;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff !important;
+  background-color: #333;
+  transition: background 0.3s ease-in;
+  box-sizing: border-box;
+}
+
+.btn:hover {
+  text-decoration: none;
+  color: #fff !important;
+  background-color: #777;
+  transition: background 0.3s ease-in;
+}
