@@ -34,7 +34,6 @@ h3, h3 a {
   line-height: 26px;
 }
 
-
 body, p, li, span, ol, ul, table, a {
   font-size: 17px;
   font-family: Raleway, sans-serif;;
@@ -51,8 +50,13 @@ main p a, main li a {
   text-decoration: underline;
 }
 
-strong {
+strong, b {
   font-weight: 700;
+}
+
+i {
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
 }
 
 nav .page-link {
@@ -205,6 +209,22 @@ p, a, a:hover, a:active, a:visited {
 }
 
 .bio-img:hover {
+  filter: grayscale(0);
+  transition: filter 0.3s ease-in;
+}
+
+.large-img {
+  filter: grayscale(1);
+  max-width: 40%;
+  float: left;
+  display: block;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  transition: filter 0.3s ease-in;
+}
+
+.large-img:hover {
   filter: grayscale(0);
   transition: filter 0.3s ease-in;
 }
