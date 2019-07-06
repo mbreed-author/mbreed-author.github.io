@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 menu: home
 ---
@@ -26,7 +26,14 @@ _"Very well thought-out … Reminds me of Michael Moorcock's earlier novels."_ �
 
 ---
 
-Intrigued? **Click the button below to join my Readers Club and receive your free download of the first six chapters**. You will also get an email when the full novel is published, so you can obtain it while it's available for free. I won't pass on your email, or use it for anything else.
+You can **read the prologue and first chapter** (in pdf format) by clicking on the button below:
+
+[Show me the first chapter](reed-chap1.pdf){:.btn .center}{:target="_blank"}
+
+<br/>
+<br/>
+
+Intrigued? **Click the button below to join my Readers Club and receive your free download of the first six chapters**. You will also get an email when the full novel is published, so you can obtain it during the introductory discount. I won't pass on your email, or use it for anything else.
 
 
 [Send me my free download](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
