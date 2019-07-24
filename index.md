@@ -28,7 +28,7 @@ _"Very well thought-out â€¦ Reminds me of Michael Moorcock's earlier novels."_ â
 
 You can **read the prologue and first chapter** (in pdf format) by clicking on the button below:
 
-[Show me the first chapter](reed-chap1.pdf){:.btn .center}{:target="_blank"}
+[Show me the first chapter](/assets/files/reed-chap1.pdf){:.btn .center}{:target="_blank"}
 
 <br/>
 <br/>
