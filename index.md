@@ -1,4 +1,4 @@
-﻿---
+---
 layout: home
 menu: home
 ---
@@ -14,7 +14,7 @@ Are you sure you know who you are? If your memories disappeared and were replace
 
 London 1982 – perhaps. Awakened in an isolation ward of catatonic patients, glimpsing the outside world only through a television news bulletin, that is the dilemma facing Hugh Hammond...
 
-Gradually Hugh's memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain fights a lonely Cold War against Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? 
+Gradually Hugh's memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain fights a lonely Cold War against Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why?
 
 Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, via a hippie encampment in France.
 
