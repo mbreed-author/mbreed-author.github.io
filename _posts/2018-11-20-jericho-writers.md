@@ -3,6 +3,7 @@ layout: post
 title:  "Jericho Writers"
 date:   2018-02-14
 author: MB Reed
+category: blog
 ---
 
 I found [jerichowriters.com](https://jerichowriters.com){:target="_blank"} from a google search. Signed up for their newsletter. In response I received links to three one-hour videos on 3 consecutive days. The first, a panel of female literary agents looking at slushpile submissions and giving their reactions, would have been interesting if not for the atrocious sound and unorganised presentation.
