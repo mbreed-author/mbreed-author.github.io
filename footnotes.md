@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Notes
-menu: notes
-permalink: /notes/
+title: Footnotes
+menu: footnotes
+permalink: /footnotes/
 image: /assets/img/2.jpg
 category: references
 ---
