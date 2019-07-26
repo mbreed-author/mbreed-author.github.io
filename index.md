@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 menu: home
 ---
@@ -33,7 +33,7 @@ You can **read the prologue and first chapter** (in pdf format) by clicking on t
 <br/>
 <br/>
 
-Intrigued? **Click the button below to join my Readers Club and receive your free download of the first six chapters**. You will also get an email when the full novel is published, so you can obtain it during the introductory discount. I won't pass on your email, or use it for anything else.
+Intrigued? **Click the button below to join my Readers Club and receive your free download of the first six chapters**. You will also get an email when the full novel is published, so you can obtain it during the introductory discount period. I'll also let you know when a new batch of background footnotes appears on this website. I won't pass on your email, or use it for anything else.
 
 
 [Send me my free download](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
