@@ -6,19 +6,21 @@ menu: home
 # The Hammond Conjecture
 *A darkly comic tale of sex, drugs and quantum mechanics…*
 
-![The Hammond Conjecture](/assets/img/hammond.png){:class="large-img"}
+![The Hammond Conjecture - **OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
 
-The Hammond Conjecture is an alternate-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
+*The Hammond Conjecture* is an alternate-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
 
-Are you sure you know who you are? If your memories disappeared and were replaced with someone else's, would you still be you? And what if those memories were not just from another person - but of a different world?
+Are you sure you know who you are? If your memories disappeared and were replaced with someone else’s, would you still be you? And what if those memories were not just from another person - but of a different world? A world in which Britain signed a peace treaty with Hitler in 1941, and now – thirty years later – is being wooed by the Third Reich to join its European Community.
 
-London 1982 – perhaps. Awakened in an isolation ward of catatonic patients, glimpsing the outside world only through a television news bulletin, that is the dilemma facing Hugh Hammond...
+London 1982 – perhaps. Regaining consciousness in an isolation ward of catatonic patients, glimpsing the outside world only through a television news bulletin, that is the dilemma facing Hugh Hammond.
 
-Gradually Hugh's memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain fights a lonely Cold War against Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why?
+Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? And what is the role of Carlton, the shadowy Intelligence officer who delivered him there?
 
-Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, via a hippie encampment in France.
+Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse, via a hippie encampment in British-occupied North France, to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, and to a Le Carré-style climax in the divided city of Paris.
 
-_"Very well thought-out … Reminds me of Michael Moorcock's earlier novels."_ – Gary Gibson, leading British sci-fi writer.
+
+“Very well thought-out … Reminds me of Michael Moorcock’s earlier novels.” – Gary Gibson, leading British sci-fi writer.
+
 ​
 <br/>
 <br/>
@@ -26,17 +28,17 @@ _"Very well thought-out … Reminds me of Michael Moorcock's earlier novels."_ �
 
 ---
 
-You can **read the prologue and first chapter** (in pdf format) by clicking on the button below:
+**The e-book has now been published in the Amazon Kindle Store**. Click the button below to see it, and read an extended extract using the *Look Inside* feature: 
 
-[Show me the first chapter](/assets/files/reed-chap1.pdf){:.btn .center}{:target="_blank"}
+[Go to the Amazon book page](https://www.amazon.co.uk/dp/B07ZH5P84C/){:.btn .center}{:target="_blank"}
 
 <br/>
 <br/>
 
-Intrigued? **Click the button below to join my Readers Club and receive your free download of the first six chapters**. You will also get an email when the full novel is published, so you can obtain it during the introductory discount period. I'll also let you know when a new batch of background footnotes appears on this website. I won't pass on your email, or use it for anything else.
+Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond short story:*The Final Patient*. I'll send an email when the full novel is on sale at a promotional discount. I'll also let you know when a new batch of background footnotes appears on this website, and when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
 
 
-[Send me my free download](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
+[I want my free short story](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
 
 <br/>
 <br/>
