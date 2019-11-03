@@ -28,9 +28,15 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 ---
 
-**The e-book has now been published in the Amazon Kindle Store**. Click the button below to see it, and read an extended extract using the *Look Inside* feature: 
+**The e-book has now been published in the Amazon Kindle Store**. UK readers can click the button below to see it. Overseas readers should use the universal book link [mybook.to/conjecture](https://mybook.to/conjecture) .
 
-[Go to the Amazon book page](https://www.amazon.co.uk/dp/B07ZH5P84C/){:.btn .center}{:target="_blank"}
+<br/>
+
+There you can read an extended extract using the *Look Inside* feature: 
+
+<br/>
+
+[Go to the Amazon.co.uk book page](https://www.amazon.co.uk/dp/B07ZH5P84C/){:.btn .center}{:target="_blank"}
 
 <br/>
 <br/>
