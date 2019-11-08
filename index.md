@@ -28,11 +28,12 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 ---
 
-**The e-book has now been published in the Amazon Kindle Store**. Click the button below to see it, and read an extended extract using the *Look Inside* feature: 
+**The e-book has now been published in the Amazon Kindle Store**. UK readers can click the button below to see it. Overseas readers should use the universal book link [mybook.to/conjecture](https://mybook.to/conjecture) .
+<br/>  There you can read an extended extract using the *Look Inside* feature: 
 
-[Go to the Amazon book page](https://www.amazon.co.uk/dp/B07ZH5P84C/){:.btn .center}{:target="_blank"}
 
-<br/>
+[Go to the Amazon.co.uk book page](https://www.amazon.co.uk/dp/B07ZH5P84C/){:.btn .center}{:target="_blank"}
+
 <br/>
 
 Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond short story:*The Final Patient*. I'll send an email when the full novel is on sale at a promotional discount. I'll also let you know when a new batch of background footnotes appears on this website, and when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
