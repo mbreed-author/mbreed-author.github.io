@@ -8,7 +8,7 @@ menu: home
 
 ![The Hammond Conjecture - **OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
 
-**BLACK FRIDAY SALE**  From Friday 29th November 2019, for a limited time, the Amazon Kindle price will be reduced from £3.99 to £0.99 (or $0.99 on amazon.com)!
+**BLACK FRIDAY SALE:  From Friday 29th November 2019, for a limited time, the Amazon Kindle price will be reduced from £3.99 to £0.99 (or $0.99 on amazon.com)!**
 
 <br/>
 
