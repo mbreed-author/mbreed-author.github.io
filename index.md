@@ -8,7 +8,7 @@ menu: home
 
 ![The Hammond Conjecture - **OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
 
-**BLACK FRIDAY SALE:  For a limited time, the Amazon Kindle price will be reduced from £3.99 to £0.99 (or $1.28 on amazon.com)!**
+**FREE WEEKEND:  The novel is FREE on Amazon Kindle on 26 and 27 January (US Time)! Then it will revert back to 99p ($1.28)**
 
 <br/>
 
