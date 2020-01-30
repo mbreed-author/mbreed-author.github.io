@@ -8,7 +8,7 @@ menu: home
 
 ![The Hammond Conjecture - **OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
 
-**FREE WEEKEND:  The novel is FREE on Amazon Kindle on 26 and 27 January (US Time)! Then it will revert back to 99p ($1.28)**
+!**FREE WEEKEND:  The novel is FREE on Amazon Kindle on 26 and 27 January (US Time)! Then it will revert back to 99p ($1.28)**
 
 <br/>
 
