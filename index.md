@@ -36,7 +36,7 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 <br/>
 
-Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond short story:*The Final Patient*. I'll send an email when the full novel is on sale at a promotional discount. I'll also let you know when a new batch of background footnotes appears on this website, and when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
+Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond short story:*The Final Patient*. I'll let you know when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
 
 
 [I want my free short story](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
