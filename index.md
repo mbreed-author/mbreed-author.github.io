@@ -8,11 +8,9 @@ menu: home
 
 ![The Hammond Conjecture - **OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
 
-**FREE WEEKEND:  The novel is FREE on Amazon Kindle on 26 and 27 January (US Time)! Then it will revert back to 99p ($1.28)**
-
 <br/>
 
-*The Hammond Conjecture* is an alternate-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
+*The Hammond Conjecture* is an alternative-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
 
 Are you sure you know who you are? If your memories disappeared and were replaced with someone else’s, would you still be you? And what if those memories were not just from another person - but of a different world? A world in which Britain signed a peace treaty with Hitler in 1941, and now – thirty years later – is being wooed by the Third Reich to join its European Community.
 
@@ -32,11 +30,13 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 ---
 
-**The e-book has now been published in the Amazon Kindle Store**. UK readers can click the button below to see it. Overseas readers should use the universal book link [mybook.to/conjecture](https://mybook.to/conjecture) .
-<br/>  There you can read an extended extract using the *Look Inside* feature: 
+**The e-book has now been published through Apple, Barnes & Noble and other distributors as well as in the Amazon Kindle Store**. Click the button below for a set of links which will take you to the book page of your favourite distributor:
 
+[Universal Book Link: The Hammond Conjecture](https://books2read.com/u/4Dyygr){:.btn .center}{:target="_blank"}
 
-[Go to the Amazon.co.uk book page](https://www.amazon.co.uk/dp/B07ZH5P84C/){:.btn .center}{:target="_blank"}
+<br/>
+
+The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to your local Amazon store. There you can read an extended extract using the *Look Inside* feature.
 
 <br/>
 
