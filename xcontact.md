@@ -11,5 +11,7 @@ Please email me at:
 martin(at)mbreed.co.uk
 
 replacing (at) with an ampersand.
-
+<br/>
+![Conjecture thumbnail](/assets/img/thumbnail.jpg)
+<br/>
 I'd love to hear from you!
