@@ -36,7 +36,7 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 <br/>
 
-The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to your local Amazon store. There you can read an extended extract using the *Look Inside* feature.
+The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to your local Amazon store. There you can read an extended extract using the *Look Inside* feature. There are also reviews on [Goodreads.com](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture).
 
 <br/>
 
