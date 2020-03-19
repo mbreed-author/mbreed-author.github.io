@@ -40,7 +40,7 @@ The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to y
 
 <br/>
 
-Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond short story:*The Final Patient*. I'll send an email when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
+Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond story:*The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll send an email when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
 
 
 [I want my free short story](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
