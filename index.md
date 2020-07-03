@@ -6,7 +6,7 @@ menu: home
 # The Hammond Conjecture
 *A darkly comic tale of sex, drugs and quantum mechanics…*
 
-![The Hammond Conjecture - **OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
+[The Hammond Conjecture - **3rd July 2020: NEW EDITION OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
 
 <br/>
 
@@ -29,8 +29,9 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 <br/>
 
 ---
+**3rd July 2020: I have produced a revised, improved 2nd edition of *Conjecture*. It's available now on Amazon, and submitted to other distributors. Still only 99p.** 
 
-**The e-book has now been published through Apple, Barnes & Noble and other distributors as well as in the Amazon Kindle Store**. Click the button below for a set of links which will take you to the book page of your favourite distributor:
+The e-book has now been published through Apple, Barnes & Noble and other distributors as well as in the Amazon Kindle Store. Click the button below for a set of links which will take you to the book page of your favourite distributor:
 
 [Universal Book Link: The Hammond Conjecture](https://books2read.com/u/4Dyygr){:.btn .center}{:target="_blank"}
 
