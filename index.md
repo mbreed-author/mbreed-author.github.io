@@ -20,7 +20,6 @@ Gradually Hugh’s memories return – of his life as an MI6 officer a decade ea
 
 Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse, via a hippie encampment in British-occupied North France, to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, and to a Le Carré-style climax in the divided city of Paris.
 
-
 “Very well thought-out … Reminds me of Michael Moorcock’s earlier novels.” – Gary Gibson, leading British sci-fi writer.
 
 ​
@@ -29,22 +28,30 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 <br/>
 
 ---
-**3rd July 2020: I have produced a revised, improved 2nd edition of *Conjecture*. It's available now on Amazon, and submitted to other distributors. Still only 99p.** 
 
-The e-book has now been published through Apple, Barnes & Noble and other distributors as well as in the Amazon Kindle Store. Click the button below for a set of links which will take you to the book page of your favourite distributor:
+The e-book (2nd edition) is available through Apple, Barnes & Noble and other distributors as well as in the Amazon Kindle Store. Click the button below to go to the book's page at your favourite distributor:
 
 [Universal Book Link: The Hammond Conjecture](https://books2read.com/u/4Dyygr){:.btn .center}{:target="_blank"}
 
-<br/>
-
-The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to your local Amazon store. There you can read an extended extract using the *Look Inside* feature. There are also reviews on [Goodreads.com](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture).
+The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to your local Amazon store. 
 
 <br/>
 
-Intrigued? Click the button below to join my Readers Club and receive a free Hugh Hammond story:*The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll send an email when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
+Whatever you think of the book, please write a review on Amazon or on [Goodreads.com](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture). 
+
+<br/>
+
+For a limited period, you can request a free copy in order to write a review. Click the button below:
 
 
-[I want my free short story](http://cm.pn/4bc0){:.btn .center}{:target="_blank"}
+[Request a review copy](https://storyoriginapp.com/reviewcopies/954ef05e-6c4c-4c12-a423-03fd9161d0ef){:.btn .center}{:target="_blank"}
+
+<br/>
+
+Intrigued? Click the button below to subscribe to my occasional newsletter. You will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
+
+
+[I want my free short story](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
 <br/>
 <br/>
