@@ -5,8 +5,9 @@ menu: home
 
 # The Hammond Conjecture
 *A darkly comic tale of sex, drugs and quantum mechanics…*
+**3rd July 2020: NEW EDITION OUT NOW!**
 
-[The Hammond Conjecture - **3rd July 2020: NEW EDITION OUT NOW!**](/assets/img/hammond.png){:class="large-img"}
+![The Hammond Conjecture](/assets/img/hammond.png){:class="large-img"}
 
 <br/>
 
