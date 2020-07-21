@@ -50,10 +50,10 @@ For a limited period, you can request a free copy in order to write a review. Cl
 
 <br/>
 
-Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* - is published. I won't pass on your email, or use it for anything else.
+Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* - is published at a discount. I won't pass on your email, or use it for anything else.
 
 
-[Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
+[Subscribe to my newsletter](https://storyoriginapp.com/giveaways/4ddcce98-c02b-11ea-bd8b-f770e51f6195){:.btn .center}{:target="_blank"}
 
 <br/>
 <br/>
