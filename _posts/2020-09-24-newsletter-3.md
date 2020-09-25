@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Newsletter September"
+title:  "Newsletter 3"
 date:   2020-09-24
 author: MB Reed
 category: blog
