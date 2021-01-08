@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  "Pentacle Papers newsletter, October 2020"
+title:  "Monthly Pentacle Papers newsletters"
 
 date:   2020-10-22
 
@@ -15,6 +15,9 @@ category: blog
 
 My Pentacle Papers newsletters are now available on my Facebook author page:
 [https://www.facebook.com/MBReedAuthor](https://www.facebook.com/MBReedAuthor). 
+
+They appear on or shortly after the 20th of each month. 
+I try to provide some free writing for you to read each month, downloadable from StoryOrigin
 
 In the October letter:
 
