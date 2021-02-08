@@ -36,3 +36,8 @@ I try to provide some free writing for you to read each month, downloadable from
 2. Wokewatch: Eton College, horticulturally racist gardening
 3. Background: Artur Axmann
 
+**In the January 2021 letter**
+
+1. Updated prequel
+2. Wokewatch: 'Red Guards' sent in to reverse-mentor staff, Amen and Awoman
+3. Background: London pubs
