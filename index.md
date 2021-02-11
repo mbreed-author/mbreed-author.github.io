@@ -4,9 +4,8 @@ menu: home
 ---
 
 # The Hammond Conjecture
-*A darkly comic tale of sex, drugs and quantum mechanics…*
+*The Third Reich meets the Swinging Sixties, cyberpunk meets neuroscience, in a comic meta-thriller*
 <br/>
-**3rd July 2020: NEW EDITION OUT NOW!**
 
 ![The Hammond Conjecture](/assets/img/cover-full-v4.png){:class="large-img"}
 
@@ -14,11 +13,11 @@ menu: home
 
 *The Hammond Conjecture* is an alternative-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
 
-Are you sure you know who you are? If your memories disappeared and were replaced with someone else’s, would you still be you? And what if those memories were not just from another person - but of a different world? A world in which Britain signed a peace treaty with Hitler in 1941, and now – thirty years later – is being wooed by the Third Reich to join its European Community.
+Are you sure you know who you are? If your memories disappeared and were replaced with someone else’s, would you still be you? And what if those memories were not just from another person - but of a different world?
 
 London 1982 – perhaps. Regaining consciousness in an isolation ward of catatonic patients, glimpsing the outside world only through a television news bulletin, that is the dilemma facing Hugh Hammond.
 
-Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? And what is the role of Carlton, the shadowy Intelligence officer who delivered him there?
+Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? 
 
 Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse, via a hippie encampment in British-occupied North France, to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, and to a Le Carré-style climax in the divided city of Paris.
 
