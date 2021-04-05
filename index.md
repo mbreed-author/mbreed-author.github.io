@@ -42,17 +42,12 @@ Whatever you think of the book, please write a review on Amazon or on [Goodreads
 
 <br/>
 
-For a limited period, you can request a free copy in order to write a review. Click the button below:
 
-
-[Request a review copy](https://storyoriginapp.com/reviewcopies/954ef05e-6c4c-4c12-a423-03fd9161d0ef){:.btn .center}{:target="_blank"}
-
-<br/>
-
-Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* - is published at a discount. I won't pass on your email, or use it for anything else. Thanks!
+Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* or the prequel *The Events of 1968: an alternative history* - is published at a discount. I won't pass on your email, or use it for anything else. Thanks!
 
 
 [Subscribe to my newsletter](https://storyoriginapp.com/giveaways/4ddcce98-c02b-11ea-bd8b-f770e51f6195){:.btn .center}{:target="_blank"}
+
 
 <br/>
 <br/>
