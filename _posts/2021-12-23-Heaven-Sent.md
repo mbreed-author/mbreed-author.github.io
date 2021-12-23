@@ -6,61 +6,9 @@ author: MB Reed
 category: blog
 ---
 
-A *Way of the World* investigation has uncovered a spate of reports in local newspapers, all with a similar strange story. Typically, someone has been lost in tragic or violent circumstances, presumed dead. But a few days later he reappears, quite unharmed, though he refuses to discuss what happened to him. But now, in a WotW exclusive, one man, a cultural historian by profession, has agreed to tell his story, asking only for anonymity and a five-figure fee. He had disappeared in a snowstorm while climbing in the Cairngorms, but on the third day he descended again. This is what he said.
+A *Way of the World* investigation has uncovered a spate of reports in local newspapers, all with a similar strange story. Typically, someone has been lost in tragic or violent circumstances, presumed dead. But a few days later he reappears, quite unharmed, though he refuses to discuss what happened to him. But now, in a WotW exclusive, one man, a cultural historian by profession, has agreed to tell his story, asking only for anonymity and a five-figure fee. He had disappeared in a snowstorm while climbing in the Cairngorms, but on the third day he descended again. 
 
-Hours after my fatal fall, I had the near-death experience you hear about: the agonising pain and hypothermia faded, and I floated upward, away from my body. Then I felt myself sucked through a dark tunnel, faster and faster, towards a point of bright light, which grew and grew until I emerged into a vast park: green lawns and flowerbeds, dotted with gleaming glasshouses lit within by an ethereal glow. At first I thought I was in Kew Gardens, but the streams were flowing with milk and honey, there was a giant chocolate fountain, and no litter. 
+To read his story, click the button below.
 
-Signposts pointed along different paths to the glass pavilions. The biggest ones were in Arabic and Hebrew, but I eventually found a small faded sign saying *Heaven (C of E)*, with a flag of St George in the bottom right corner. The path led me to a rather scruffy glasshouse, its panes dirty and some of them broken but I knew that this was the Anglican heaven because of the pearly gates at the entrance. Though, coming closer, I saw they were actually of pearl-effect melamine, rather cheap and tacky. There was no-one around. I pushed on the gates but they were locked. Then I noticed an answerphone on the wall; I pressed the button and it crackled into life.
-
-After giving my full name and date of death, and answering a series of security questions, I heard a recorded announcement: 'Welcome to the Gates of Heaven (Church of England). Your visit is important to us. However we are currently experiencing higher than usual call volumes; please wait and a member of St Peter Reception Team will be with you shortly.' Then it started playing a tinny melody: *Greensleeves*, over and over.
-
-After waiting half an hour or so, I remembered that in the Muslim heaven male believers would be rewarded with 72 dark-eyed virgins, and I was about to go and look for it when a cloud with four angels on board drove up. Their leader descended and addressed me.
-
-'Alright, what do you want?' he asked in a very abrupt tone.
-
-'Well, to enter into Heaven, of course,' I replied with equal annoyance.
-
-He was holding a tablet, like Moses. He tapped on its screen, and swiped left. Then he looked up at me. 'Sorry, chum. Computer says No.'
-
-'But that is ridiculous! I know my rights.'
-
-He sighed. 'Oh, for Goodness sake! Alright, get on the cloud.'
-
-I started to remonstrate with him. Meanwhile, two bearded men dressed in climbing outfits like mine came along the path. The angel bowed, then pressed a button on a key fob he took from his shoulder bag and the pearly gates swung open to admit them.
- 
-I was speechless. Then I lost my temper.
-
-'You let that pair into Heaven without any question, but you treat me like a second-class citizen. Its blatant discrimination! Victimisation! I want a lawyer: I want to lodge an appeal.'
-
-'Oh for Gods sake! What on Earth is wrong with you people these days? Just shut up and get on the bloody cloud, or you can go to Hell!'
-
-They took me to what looked like a cheap hotel on the outskirts of the park. I spent days sitting in isolation in a grey concrete room: no television, and only the Gideon Bible to read. The food was terrible: Ambrosia rice pudding for every meal. 
-I guessed that I was being held in pre-Heaven quarantine, and indeed on the tenth day a senior angel appeared. He perched on the bed, folded his wings and smiled beatifically at me.
-
-'How nice to meet you. I am Archangel Kevin. Sorry it has taken so long to assess your case. And apologies for Angel Hilary being a bit brusque with you. He is stressed out. We have all been rushed off our feet because of this pandemic down on Earth. Flooded with new arrivals, which is why we are using this holding facility.'
-
-'I thought that St Peter welcomes everyone in? Those two men who arrived at the same time as me: your angel just waved them through. No assessment.'
-
-'No need. They were members of the Search and Rescue team who were looking for you on the mountain. They slipped and lost their lives trying to save you.'
-
-'Anyway, its not that simple. Our share of the Firmament isnt infinite, you know, and we are getting close to capacity. First there was the influx of martyrs from what used to be the Holy Land, and now all the additional deaths from Covid. Then there are are new sects forming all the time, demanding their own Paradise pavilion and piece of Sterbensraum territory. We are seriously thinking of following the Buddhists and introducing reincarnation, the recycling of souls, to control the population. We cant go on for ever taking in everyone who claims to be C of E; weve introduced a points-based immigration system. And I am afraid you havent earned the requisite number.'
-
-'What? But Ive been a good Christian! Ive been baptised, I go to Communion every Sunday. Well, not *every* Sunday, but certainly at Christmas and Easter. Until lockdown, of course. But I pray every night, and'
-'Unfortunately church-going doesnt count for very much, these days. Most people do it so as to get their kids into our schools. And prayers asking for our intercession just put an extra burden on our overstretched pastoral service. Its good deeds which count. Like with those unfortunate rescuers. No, Im afraid youll have to go back.'
-
-'Wait a minute! What about my human rights? My right to a family life? My dear wife died a couple of years back. She must be up here: she was always doing good deeds and looking after the house. We were inseparable; I was heartbroken when she died. She will vouch'
-
-'Actually, I already checked with her, if she would sponsor you. Her response was a bit less than enthusiastic.' He tapped on the tablet he held, and then quoted from it. '‘No way! The bastard can burn in Hell, for all I care!’ So no luck there. 
-'But if you really dont want to return to Earth, you could always try the Other Place, like she says. Theyll take anyone in: terrorists, murderers, rapists, politicians. Archangel Maalik, my counterpart down at the Hades reception furnace is always teasing me that their open-door policy is more humanitarian and compassionate than ours. Mind you, they have a lot of religious fanatics running things in Hell nowadays. But up here we are concerned about our residents quality of afterlife.'
-
-'No! Im not going to Hell!'
-
-'I know it has a bad reputation, but'
-
-'No!'
-
-He sighed. 'You are an awkward customer, to be sure. But I dont have time to argue. I am sending you back. Do some good deeds before you come here again. And a word of advice: dont try to get back here by deliberately putting yourself in mortal danger. Like you did by going out on that mountain when a storm was forecast. We take a dim view of that sort of reckless behaviour. And dont try to cheat the system by committing suicide.'
-
-He led me out to a waiting cloud. Before it set off to take me back to the Tunnel he said, 'Very important: dont tell anyone what youve seen here. We have a rule: What happens in Paradise stays in Paradise. If you publicise what Ive told you, youll face an afterlifetime ban. The Living should just get on with their lives without knowing about the World Beyond. If they had proof that good deeds would be rewarded in Heaven, it would invalidate the whole Experiment.'
-
+[List of Publications](/assets/files/HeavenSent.pdf){:.btn .center}{:target="_blank"}
 
