@@ -12,16 +12,15 @@ Hours after my fatal fall, I had the near-death experience you hear about: the a
 
 Signposts pointed along different paths to the glass pavilions. The biggest ones were in Arabic and Hebrew, but I eventually found a small faded sign saying *Heaven (C of E)*, with a flag of St George in the bottom right corner. The path led me to a rather scruffy glasshouse, its panes dirty and some of them broken but I knew that this was the Anglican heaven because of the pearly gates at the entrance. Though, coming closer, I saw they were actually of pearl-effect melamine, rather cheap and tacky. There was no-one around. I pushed on the gates but they were locked. Then I noticed an answerphone on the wall; I pressed the button and it crackled into life.
 
-After giving my full name and date of death, and answering a series of security questions, I heard a recorded announcement: Welcome to the Gates of Heaven (Church of England). Your visit is important to us. However we are currently experiencing higher than usual call volumes; please wait and a member of St Peter Reception Team will be with you shortly. 
+After giving my full name and date of death, and answering a series of security questions, I heard a recorded announcement: 'Welcome to the Gates of Heaven (Church of England). Your visit is important to us. However we are currently experiencing higher than usual call volumes; please wait and a member of St Peter Reception Team will be with you shortly.' 
 Then it started playing a tinny melody: *Greensleeves*, over and over.
-
 After waiting half an hour or so, I remembered that in the Muslim heaven male believers would be rewarded with 72 dark-eyed virgins, and I was about to go and look for it when a cloud with four angels on board drove up. Their leader descended and addressed me.
 
 'Alright, what do you want?' he asked in a very abrupt tone.
 'Well, to enter into Heaven, of course,' I replied with equal annoyance.
 He was holding a tablet, like Moses. He tapped on its screen, and swiped left. Then he looked up at me. 'Sorry, chum. Computer says No.'
 'But that is ridiculous! I know my rights.'
-He sighed. 'Oh, for Gods sake! Alright, get on the cloud.'
+He sighed. 'Oh, for Goodness sake! Alright, get on the cloud.'
 I started to remonstrate with him. Meanwhile, two bearded men dressed in climbing outfits like mine came along the path. The angel bowed, then pressed a button on a key fob he took from his shoulder bag and the pearly gates swung open to admit them. 
 I was speechless. Then I lost my temper.
 'You let that pair into Heaven without any question, but you treat me like a second-class citizen. Its blatant discrimination! Victimisation! I want a lawyer: I want to lodge an appeal.'
