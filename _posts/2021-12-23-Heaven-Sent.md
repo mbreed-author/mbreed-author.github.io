@@ -8,7 +8,7 @@ category: blog
 
 A *WotW* exclusive on The World Beyond. Use the button below to read the full report.
 [A *Way of the World* report: Heaven Sent](/assets/files/HeavenSent.pdf){:.btn .center}{:target="_blank"}
-There has been a spate of reports in local newspapers, all with a similar strange story. Typically, someone has been lost in tragic or violent circumstances, presumed dead. But a few days later he reappears, quite unharmed. Now, in a *WotW* exclusive, one man has agreed to tell his story, asking only for anonymity and a five-figure fee. He had disappeared in a snowstorm while climbing in the Cairngorms, but on the third day he descended again. This is his story:
+There has been a spate of reports in local newspapers, all with a similar strange story. Typically, someone has been lost in tragic or violent circumstances, presumed dead. But a few days later he reappears, quite unharmed. Now, in a *WotW* exclusive, one man has agreed to tell his story, asking only for anonymity and a five-figure fee. He had disappeared in a snowstorm while climbing in the Cairngorms, but on the third day he descended again. This is his story.
 
 Hours after my fatal fall, I had the near-death experience you hear about: the agonising pain and hypothermia faded, and I floated upward, away from my body. Then I felt myself sucked through a dark tunnel, faster and faster, towards a point of bright light, which grew and grew until I emerged into a vast park: green lawns and flowerbeds, dotted with gleaming glasshouses lit within by an ethereal glow. At first I thought I was in Kew Gardens, but the streams were flowing with milk and honey, there was a giant chocolate fountain, and no litter. 
 
