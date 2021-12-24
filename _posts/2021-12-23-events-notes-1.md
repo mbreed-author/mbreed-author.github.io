@@ -6,7 +6,7 @@ category: references
 
 <br/>
 
-## Chapters 1-3: 
+## Chapters 1-4: 
 
 1. **Thomas Hammond's home and school life** in the 1960s are largely based on my own. I think anyone who went to my grammar school at that time will recognise it - though we never had any contact with the girls' school at the bottom of the playing fields. In particular, the teacher Mr Wolfe (not his real name) whose eccentricities were even more extreme than depicted here. Though I never saw him act with serious violence - it was another teacher who knocked a boy unconscious when he farted during morning Assembly. The school had a Combined Cadet Force, and I was in the RAF section. I can still recall the smell of the blanco I had to polish my gaiters with, the evening before Parade. 
 
@@ -20,6 +20,13 @@ category: references
 
 6. **Alex Naysmith's reporting style** is based on that of a certain current BBC Radio 4 political correspondent, who seems to get away with such banalities without comment.
 
+7. **The Ship and Shovell** is a London pub with [a unique layout](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2074032-Reviews-Ship_Shovell-London_England.html) which becomes important later in the book. 
+
+8. **Moral Rearmament** was an idealistic Christian peace movement in the 1930s.
+
+9. The Churchill government secretly planned to [evacuate King George VI and his family](https://www.capitaldaily.ca/news/queen-elizabeth-hatley-castle-second-world-war-king-george) to **Hatley Castle** in British Columbia if the Nazis invaded Britain. After the war they considered sending the former King Edward VIII into exile there. More recently it was used as a set in the X-Men films.  
+
+10. The speech by Princess Elizabeth is based on one [she delivered in 1947](https://www.royal.uk/21st-birthday-speech-21-april-1947) to the young people of the Commonwealth on her 21st birthday. 
 
 <br/>
 
