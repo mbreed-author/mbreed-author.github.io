@@ -20,6 +20,8 @@ category: references
 
 6. **Alex Naysmith's reporting style** is based on that of a certain current BBC Radio 4 political correspondent, who seems to get away with such banalities without comment.
 
+## Chapter 4:  The Queen's Speech
+
 7. **The Ship and Shovell** is a London pub with [a unique layout](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2074032-Reviews-Ship_Shovell-London_England.html) which becomes important later in the book. 
 
 8. **Moral Rearmament** was an idealistic Christian peace movement in the 1930s.
@@ -27,17 +29,6 @@ category: references
 9. The Churchill government secretly planned to [evacuate King George VI and his family](https://www.capitaldaily.ca/news/queen-elizabeth-hatley-castle-second-world-war-king-george) to **Hatley Castle** in British Columbia if the Nazis invaded Britain. After the war they considered sending the former King Edward VIII into exile there. More recently it was used as a set in the X-Men films.  
 
 10. The speech by Princess Elizabeth is based on one [she delivered in 1947](https://www.royal.uk/21st-birthday-speech-21-april-1947) to the young people of the Commonwealth on her 21st birthday. 
-
-<br/>
-
-
-## Chapter 4:  The Queen's Speech
-
-1. The **Ship and Shovell** is a London pub with a unique layout, which becomes important later in the book. 
-https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2074032-Reviews-Ship_Shovell-London_England.html
-
-2. **Elizabeth's speech** is adapted from one which she gave in 1947, on her 21st birthday, to the young people of the Commonwealth.
-https://www.royal.uk/21st-birthday-speech-21-april-1947
 
 
 
