@@ -30,11 +30,9 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 ---
 
-The e-book (2nd edition) is available through Apple, Barnes & Noble and other distributors as well as in the Amazon Kindle Store. Click the button below to go to the book's page at your favourite distributor:
+The e-book (2nd edition) is available through the Amazon Kindle Store. Click the button below to go to the book's page at your local Amazon store:
 
-[Universal Book Link: The Hammond Conjecture](https://books2read.com/u/4Dyygr){:.btn .center}{:target="_blank"}
-
-The link [mybook.to/conjecture](https://mybook.to/conjecture) will take you to your local Amazon store. 
+[The Hammond Conjecture](https://mybook.to/conjecture){:.btn .center}{:target="_blank"}
 
 <br/>
 
@@ -46,7 +44,7 @@ Whatever you think of the book, please write a review on Amazon or on [Goodreads
 Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* or the prequel *The Events of 1968: an alternative history* - is published at a discount. I won't pass on your email, or use it for anything else. Thanks!
 
 
-[Subscribe to my newsletter](https://storyoriginapp.com/giveaways/4ddcce98-c02b-11ea-bd8b-f770e51f6195){:.btn .center}{:target="_blank"}
+[Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
 
 <br/>
