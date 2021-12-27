@@ -30,7 +30,7 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 ---
 
-The e-book (2nd edition) is available through the Amazon Kindle Store. Click the button below to go to the book's page at your local Amazon store:
+The e-book (2nd edition) is available through the Amazon Kindle Store. Click the button below to go to the book page at your local Amazon store:
 
 [The Hammond Conjecture](https://mybook.to/conjecture){:.btn .center}{:target="_blank"}
 
