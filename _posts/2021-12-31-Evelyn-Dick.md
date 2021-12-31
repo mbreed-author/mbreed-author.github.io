@@ -7,9 +7,9 @@ category: blog
 ---
 
 In this series of *Way of the World* reports by Peter Simple, I will be interviewing some of this country's leading cultural figures. First, I have come to the county of Rutland to visit one of Britains most progressive education institutions. Starting out as Uppingham Infant School, it became Uppingham Academy, then Rutland Technical College, and is now Rutland Idle University. I am meeting its Vice-Chancellor, Professor Evelyn Dick.
-Click the button below to read the full report:
+*Click the button below to read the full report:*
 [*Dame Evelyn Dick: an interview*: full story](/assets/files/EvelynDick.pdf){:.btn .center}{:target="_blank"}
-ED: **Professor** Dame Evelyn Dick, actually.
+ED: Professor **Dame** Evelyn Dick, actually.
 
 PS: I stand corrected, Dame Evelyn. 
 
@@ -30,7 +30,7 @@ ED: Of course not. My achievements have been constantly undermined by discrimina
 PS: Your earliest job was in a stables?
 
 
-To read on, click the button below.
+*To read on, click the button below:*
 
 [*Dame Evelyn Dick: an interview*: full story](/assets/files/EvelynDick.pdf){:.btn .center}{:target="_blank"}
 
