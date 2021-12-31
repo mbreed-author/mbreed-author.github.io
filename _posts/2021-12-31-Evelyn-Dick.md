@@ -7,12 +7,14 @@ category: blog
 ---
 
 In this series of *Way of the World* reports by Peter Simple, I will be interviewing some of this country's leading cultural figures. First, I have come to the county of Rutland to visit one of Britains most progressive education institutions. Starting out as Uppingham Infant School, it became Uppingham Academy, then Rutland Technical College, and is now Rutland Idle University. I am meeting its Vice-Chancellor, Professor Evelyn Dick.
-
 [*Dame Evelyn Dick: an interview*: full story](/assets/files/EvelynDick.pdf){:.btn .center}{:target="_blank"}
+ED: **Professor** Dame Evelyn Dick, actually.
 
-ED: Professor Dame Evelyn Dick, actually.
+PS: I stand corrected, Dame Evelyn. 
 
-PS: I stand corrected, Dame Evelyn. Now I first wanted to ask about the universitys name. Why Idle?
+ED: Good. You may now sit.
+
+PS: Thank you. Now I first wanted to ask about the universitys name. Why Idle?
 
 ED: In the tradition of such venerable UK universities as Liverpool John Moores, Anglia Ruskin, Oxford Brookes and Bath Spa, we are named after a local hero, the Monty Pythonian and popular historian Eric Idle, who put Rutland on the map with his group *The Rutles*. I am incredibly proud and humbled to be playing my part in our beautiful county, my true home.
 
