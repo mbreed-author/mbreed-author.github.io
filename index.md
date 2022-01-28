@@ -6,6 +6,8 @@ menu: home
 # The Hammond Conjecture
 *The Third Reich meets the Swinging Sixties, cyberpunk meets neuroscience, in a comic meta-thriller*
 <br/>
+**A novel in the Pentacle Papers series**
+<br/>
 
 ![The Hammond Conjecture](/assets/img/cover-full-v4.png){:class="large-img"}
 
@@ -19,7 +21,7 @@ London 1982 – perhaps. Regaining consciousness in an isolation ward of cataton
 
 Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? 
 
-Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse, via a hippie encampment in British-occupied North France, to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, and to a Le Carré-style climax in the divided city of Paris.
+Read the [review on file770.com]{http://file770.com/review-the-hammond-conjecture/)
 
 “Very well thought-out … Reminds me of Michael Moorcock’s earlier novels.” – Gary Gibson, leading British sci-fi writer.
 
@@ -30,18 +32,22 @@ Hugh types out his recollections: an adventure which takes him from an opium den
 
 ---
 
-The e-book (2nd edition) is available through the Amazon Kindle Store. Click the button below to go to the book page at your local Amazon store:
-
-[The Hammond Conjecture](https://mybook.to/conjecture){:.btn .center}{:target="_blank"}
+[*The Hammond Conjecture* on Amazon](https://mybook.to/conjecture){:.btn .center}{:target="_blank"}
 
 <br/>
 
-Whatever you think of the book, please write a review on Amazon or on [Goodreads.com](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture). 
+[*The Hammond Conjecture* on Goodreads.com](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture){:.btn .center}{:target="_blank"}
 
 <br/>
 
 
-Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Hugh Hammond story: *The Final Patient* - long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). I'll announce when the sequel - *The Hammond Catastrophe* or the prequel *The Events of 1968: an alternative history* - is published at a discount. I won't pass on your email, or use it for anything else. Thanks!
+Intrigued? Click the button below to subscribe to my occasional newsletter. In return, you will receive a free Pentacle Papers compendium, containing stories and opening chapters of the three Pentacle Papers novels: 
+1. *The Events of 1968: An Alternative History* (appearing soon)
+2. The Hammond Conjecture (already published)
+3. The Hammond Catastrophe (in preparation)
+
+The story *The Final Patient* was long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). 
+I won't pass on your email, or use it for anything else. Thanks!
 
 
 [Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
