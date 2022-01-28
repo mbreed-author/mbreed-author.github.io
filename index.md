@@ -42,8 +42,8 @@ Read the [review on file770.com](http://file770.com/review-the-hammond-conjectur
 
 
 Intrigued? Click the button below to subscribe to my monthly newsletter. In return, you will receive a free **Pentacle Papers** compendium *The Final Patient*, containing stories and opening chapters of the three Pentacle Papers novels: 
-1. *The Events of 1968: An Alternative History* (appearing soon)
-2. *The Hammond Conjecture* (already published)
+1. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (appearing soon)
+2. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published)
 3. *The Hammond Catastrophe* (in preparation)
 
 <br/>
