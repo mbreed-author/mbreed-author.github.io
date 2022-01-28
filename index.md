@@ -36,7 +36,7 @@ Read the [review on file770.com](http://file770.com/review-the-hammond-conjectur
 
 <br/>
 
-[*The Hammond Conjecture* on Goodreads.com](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture){:.btn .center}{:target="_blank"}
+[*The Hammond Conjecture* on Goodreads](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture){:.btn .center}{:target="_blank"}
 
 <br/>
 
