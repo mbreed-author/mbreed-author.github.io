@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Footnotes for 'Events of 1968', Chapters 5-10
+title: Footnotes for 'Events of 1968', Chapters 5-13
 category: references
 ---
 
@@ -58,6 +58,31 @@ Here's [an aerial view of the Plain in 1968](http://www.acoombe.co.uk/UEA/).
 ## Chapter 10: Intimidation
 
 1. The [**Paedophile Information Exchange**](https://en.wikipedia.org/wiki/Paedophile_Information_Exchange) was a British pro-paedophile activist group, founded in October 1974 and officially disbanded in 1984. It was indeed [affiliated to the National Council for Civil Liberties](https://www.theguardian.com/society/2014/feb/26/lobbying-paedophile-campaign-revealed-hewitt) now known as Liberty. Its members hotline was answered from within the Home Office, and it is alleged to have received Government funding. 
+
+2. At this time, [**Germaine Greer**](https://en.wikipedia.org/wiki/Germaine_Greer) was an assistant lecturer at Warwick University, appeared on TV with Kenny Everett, and wrote for *Oz* magazine and *Private Eye*.
+
+## Chapter 11: Conflagration
+
+1. The features of the **General Strike**, including the Office for the Maintenance of Supplies and the phrases in Granville's and the king's speeches, are taken from the events in the [General Strike of 1926](https://en.wikipedia.org/wiki/1926_United_Kingdom_general_strike).
+
+2. A [**three-day week**](https://www.dailymail.co.uk/news/article-10012345/When-lights-DID-1970s-Britain-plunged-darkness-three-day-working-week.html) was introduced in 1973 by Edward Heath's Tory government, in response to a crippling miners' strike.  
+3. [**Anarcho-Syndicalism**](https://en.wikipedia.org/wiki/Anarcho-syndicalism#:~:text=Anarcho%2Dsyndicalism%20is%20a%20political,control%20influence%20in%20broader%20society.) is a political philosophy and anarchist school of thought that views revolutionary industrial unionism or syndicalism as a method for workers in capitalist society to gain control of an economy and thus control influence in broader society (Wikipedia). The link shows the anarcho-syndicalist flag.
+
+## Chapter 12: Confrontation
+
+1. For the **Angry Brigade** and to read its communiques click [here](https://theanarchistlibrary.org/library/various-authors-the-angry-brigade-documents-and-chronology-1967-1984).
+
+2. The **dinosaurs** are in [Crystal Palace Park](https://cpdinosaurs.org/visit/visitors-guide/) in South London. They were created in the 1850s and Queen Victoria and Prince Albert visited them several times. They are still there today.
+
+3. Tony Blair famously referred to Diana as 'The People's Princess' when announcing her death.
+
+## Chapter 13: Initiation
+
+1. For more details of the divided city of Paris, see the description of Hugh's trip there in *The Hammond Conjecture*.
+
+2. Ecaf (face) and omi (man) are words from the [Polari](http://chris-d.net/polari/) gay slang language, popular among London homosexuals in the 1960s and brought to public attention by the characters of [Julian and Sandy](https://www.keele.ac.uk/media/keeleuniversity/equaldiversity/polari.pdf) played by Hugh Paddick and Kenneth Williams) in the radio show Round the Horne.
+ 
+
 
 <br/>
 
