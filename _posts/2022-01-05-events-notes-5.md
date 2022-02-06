@@ -80,7 +80,7 @@ Here's [an aerial view of the Plain in 1968](http://www.acoombe.co.uk/UEA/).
 
 1. For more details of the divided city of Paris, see the description of Hugh's trip there in *The Hammond Conjecture*.
 
-2. Ecaf (face) and omi (man) are words from the [Polari](http://chris-d.net/polari/) gay slang language, popular among London homosexuals in the 1960s and brought to public attention by the characters of [Julian and Sandy](https://www.keele.ac.uk/media/keeleuniversity/equaldiversity/polari.pdf) played by Hugh Paddick and Kenneth Williams) in the radio show Round the Horne.
+2. Ecaf (face) and omi (man) are words from the [Polari](http://chris-d.net/polari/) gay slang language, popular among London homosexuals in the 1960s and brought to public attention by the characters of [Julian and Sandy](https://www.keele.ac.uk/media/keeleuniversity/equaldiversity/polari.pdf) played by Hugh Paddick and Kenneth Williams) in the radio show *Round the Horne*.
  
 
 
