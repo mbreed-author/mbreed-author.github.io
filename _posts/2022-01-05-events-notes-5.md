@@ -13,7 +13,7 @@ category: references
 
 4. The description of a **dismal pre-1968 Britain** uses my own memories. I was told that in Northern Ireland, Council workers used to chain up the swings in the playground on a Sunday to satisfy the Protestant churches. I heard the anecdote about the Mount Snowdon Railway on the Terry Wogan Show on BBC radio.
 
-5. **Benares** was the old name for modern'day Varanasi.
+5. **Benares** was the old name for modern day Varanasi.
 
 6. **The University of East Anglia** was one of the new universities created by Harold Wilson's government - called plate-glass as distinct from the old red-brick ones. The University Plain was built from scratch in a river valley outside Norwich, as a massive concrete Teaching Wall across the valley, with the Schools connected by walkways. The different Schools were known by TLAs (three-letter acronyms): MAP, EUR, SOC, etc. The student accommodation was in the Ziggurats, five-storey semi-pyramids. In my first year I lived at Pipers Lane, a former RAF base, but in my final year I was in a ziggurat. If you see [the final episode 13 of the Kenneth Clark BBC TV series Civilisation](https://www.youtube.com/watch?v=nK6UpqNctkQ), 40 minutes in, it shows UEA as the brave new world of the future, making student life look like a Club Mediterranee - which it was.
 Here's [an aerial view of the Plain in 1968](http://www.acoombe.co.uk/UEA/).

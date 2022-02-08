@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio
+title: A Life Dismembered
 menu: bio
 permalink: /bio/
 image: /assets/img/3.png
@@ -8,6 +8,10 @@ image: /assets/img/3.png
 
 <!---![M B Reed](/assets/img/mbreed.jpg){:class="bio-img"}--->
 
-I studied mathematics at the University of East Anglia in the late 1960's. Since then, I have taught maths in universities around the world (Germany, Lesotho, Swaziland, Papua New Guinea) before returning to the UK as a lecturer at Brunel University in 1986. In 2005 I joined the Maths Dept of the University of Bath as Director of Teaching. I retired in September 2018.
+I find it hard to believe now, but I was born way back in 1950. Now I no longer think much about the future, which hopefully promises another decade or so of healthy obscurity (unless Spielberg decides to film Conjecture) before the curtain comes down. Instead I think about my past; there's a lot to try to remember. 
 
-*The Hammond Conjecture* is my first novel.
+I was a student in the annus mirabilis of 1968 when, looking back now, it really was bliss to be alive, but to be young was very heaven (though it's a pity we didn't know that at the time). In the 70s and 80s I worked in universities in some of the more remote corners of the world: Lesotho, Swaziland, Papua New Guinea, Dar es Salaam, Uxbridge. I thought it would be worth recording my recollections of these vanished worlds, in this new section of the newsletter. I recently tried to write a memoir but soon gave it up. I've been able to use the memories in my novels, and decide how my fictional characters act in them, but I cannot get inside the head of the confused, unreal character who is/was my younger self. I can't explain or sympathise with his behaviour, his decisions back then. 
+
+Also, my memories do not form a smooth progression through my life, ready to be biographed, but a jumble of snapshots. And as Dr Jones expounds at length in Conjecture, our memories are anyway largely constructions of our minds, and get modified each time we recall and re-store them. So the scenes I'll feature in this section are not so much a life remembered, as a life dismembered: scattered fragments littering my brain. 
+
+I'll start posting these dismembered fragments here soon (Feb 2022). 
