@@ -6,6 +6,7 @@ category: references
 
 <br/>
 
+
 ## Chapter 21: Humiliation
 
 1. All the **Mao quotes** are authentic, mainly from the [Little Red Book](https://www.marxists.org/ebooks/mao/Quotations_from_Chairman_Mao_Tse-tung.pdf). But the song *The World Turned Upside Down* is adapted from a chorus in the opera *Nixon in China* by John Adams. 
@@ -16,6 +17,7 @@ category: references
 
 3. The abstract poem recited by Mr Bushell is [**Ursonate**](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were going to beat him up, but when he started reciting this poem they left him alone and left in disgust.
 
+
 <br/>
 
 ## Chapter 22: Occupation
@@ -23,6 +25,7 @@ category: references
 1. The Cultural Revolution in Socialist Britain is strangely prescient of modern-day events.
 
 2. While I was a student at UEA 1968-71, an American postgrad was arrested by the police for possession of cannabis. Magistrates gave him a fine. But then the university Registrar also expelled him. Students saw this as double jeopardy and we had our own student protests, culminating in **the occupation of the Arts Block**.
+
 
 <br/>
 
@@ -32,6 +35,7 @@ category: references
 
 2. See [this link](https://traditionalartofnepal.com/the-sacred-symbolism-of-the-kalachakra-mandala/) for the **Kalachakra Mandala**. At the end of Tommy's trip it morphs into [this Escher print](http://web.sbu.edu/theology/bychkov/escher_stairs.html) called *Upstairs and Downstairs*.
 
+
 <br/>
 
 ## Chapter 24: Salvation
@@ -39,6 +43,7 @@ category: references
 1. **The Who** played the University of East Anglia on 27th October 1970 (which to my shame I have no recollection of).
 
 2. Some features of the resistance to the Army Intervention reflect the [**August 1968 invasion of Czechoslovakia**](https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia) by Brezhnev's Soviet Union and its Warsaw Pact allies. 
+
 
 <br/>
 
@@ -54,11 +59,13 @@ category: references
 
 5. I first travelled to Prague in 1969, a year after the invasion. You could still see the bullet holes which pockmarked the stone columns of the National Museum at the top of Wenceslas Square, which had been rather poorly filled in.
 
+
 <br/>
 
 ## Chapter 26: Incarceration
 
 1. In 1971-72 I studied for an MSc in Algebra at the University of Sussex. I shared digs in Brighton with a guy who had been in Chile during General Pinochet's 1973 CIA-sponsored coup against President Salvador Allende. He told how he and other left-wingers were **incarcerated and tortured** in the national [Football Stadium in Santiago](https://www.nytimes.com/2015/06/19/sports/soccer/in-chiles-national-stadium-dark-past-shadows-copa-america-matches.html).  
+
 
 <br/>
 
@@ -67,6 +74,7 @@ category: references
 1. **Maryse** is modelled on the enigmatic 1960s socialite, prostitute and spy [Mariella Novotny](https://spartacus-educational.com/JFKnovotny.htm). She was closely involved in the Profumo scandal, and slept with top politicans in Britain and the USA (including President Kennedy?). Officially she died of a drugs overdose, shortly after revealing she had written her autobiography) but it is rumoured she was [murdered by British secret agents or the CIA](https://www.mirror.co.uk/news/uk-news/femme-fatale-spy-organiser-orgies-24301549). And, of course, on Jane Fonda in [*Barbarella*](https://en.wikipedia.org/wiki/Barbarella_(film)).
 
 2. **Normalisation** was the process of reversing the Dubcek reforms and [reimposing hard-line control in Czechoslovakia](https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)) in the wake of the invasion. Dubcek himself was sent into obscurity as a forestry warden in Slovakia. People were called to Party interviews to account for their actions during the Prague Spring; punishments included demotion or loss of jobs. The joke told here was one going the rounds then. There was an increase in consumer goods to mollify the citizens. The public reacted by retreating into their private lives: holiday cottages, sports, pubs. 
+
 
 <br/>
 
@@ -77,6 +85,7 @@ category: references
 2. For more details of **airship travel** see *The Hammond Conjecture*.
 
 3. The details of **Princess Margaret's liaison** with the East End gangster [John Bindon](https://www.mirror.co.uk/news/uk-news/princess-margarets-scandalous-love-affair-13695172) are all accurate. There were even rumoured to be compromising photos of the pair, which were stolen by MI5 agents from a safety deposit box during a set-up raid. Bindon's party trick was apparently to hang four half-pint beer mugs on his erect penis; I thought of including this in the novel but it sounds too far-fetched!
+
 
 <br/>
 
@@ -90,7 +99,7 @@ category: references
 
 4. Iona's idea of a computer program to prove every mathematical theorem echoes Kurt Godel's 1931 [Incompleteness Theorems](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/).
 
-5. Tommy's daymare of Iona leaving him, is drawn from the ending of *The House at Pooh Corner*. 
+5. Tommy's daymare at the end of the chapter recalls Christopher Robin's farewell to Pooh at the end of *The House at Pooh Corner*. 
 
 
 
