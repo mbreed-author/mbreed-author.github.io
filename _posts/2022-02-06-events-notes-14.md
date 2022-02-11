@@ -16,6 +16,8 @@ category: references
 
 4. **Morecambe and Wise** were hugely popular entertainers. In Autumn 1968 they moved from ATV to BBC2, as the only channel broadcasting in colour.
 
+5. In the 1990s the delicatessen on the opposite side of Craven Passage was bought by the *Ship and Shovell* inn and turned into a second bar. [The pub](https://www.shipandshovell.co.uk/) serves an excellent steak pie. From the second bar you can descend to Hungerford Lane, which runs underground beneath the Charing Cross railway lines to the Embankment.
+
 5. Harold Wilson as Prime minister was increasingly convinced that he was being **spied on by MI5**. This has been thoroughly investigated and [denied by the Security Service](https://www.mi5.gov.uk/the-wilson-plot).
 
 6. **Viscount Chesterfield** bears a strong resemblance to [Tony Benn](https://en.wikipedia.org/wiki/Tony_Benn), who renounced his title Viscount Stansgate in order to become an MP. In Wilson's 1964-1970 government he was first Postmaster General, overseeing the construction of the P O Tower, then Minister for Technology, overseeing the development of the Concorde airliner. He became a left-wing hate figure for the media, despite (or because of) his practical achievements and avuncular pip-smoking manner.
