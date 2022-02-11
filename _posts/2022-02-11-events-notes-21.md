@@ -90,10 +90,9 @@ category: references
 
 4. Iona's idea of a computer program to prove every mathematical theorem echoes Kurt Godel's 1931 [Incompleteness Theorems](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/).
 
-5. Tommy's daymare of Iona leaving him, is drawn from Winnie the Pooh. 
+5. Tommy's daymare of Iona leaving him, is drawn from the ending of *The House at Pooh Corner*. 
 
 
-2. 
 
 
 <br/>
