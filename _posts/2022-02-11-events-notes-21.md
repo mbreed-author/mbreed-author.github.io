@@ -14,7 +14,7 @@ category: references
 
 2. The **Red Guards** were the shock troops of Mao's [Great Proletarian Cultural Revolution](https://www.theguardian.com/world/2016/may/11/the-cultural-revolution-50-years-on-all-you-need-to-know-about-chinas-political-convulsion) in 1966-71. They led class struggle sessions denouncing their teachers, as described in this chapter.
 
-3. The gobbledegook poem recited by Mr Bushell is [**Ursonate**](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were going to beat him up, but when he started reciting this poem they left him alone and left in disgust.
+3. The abstract poem recited by Mr Bushell is [**Ursonate**](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were going to beat him up, but when he started reciting this poem they left him alone and left in disgust.
 
 <br/>
 
@@ -64,7 +64,7 @@ category: references
 
 ## Chapter 27: Normalisation
 
-1. **Maryse** is modelled on the enigmatic 1960s socialite, prostitute and spy [Mariella Novotny](https://spartacus-educational.com/JFKnovotny.htm). She was closely involved in the Profumo scandal, and slept with top politicans in Britain and the USA (including President Kennedy?). Officially she died of a drugs overdose, shortly after revealing she had written her autobiography) but it is rumoured she was [murdered by British secret agents or the CIA](https://www.mirror.co.uk/news/uk-news/femme-fatale-spy-organiser-orgies-24301549).
+1. **Maryse** is modelled on the enigmatic 1960s socialite, prostitute and spy [Mariella Novotny](https://spartacus-educational.com/JFKnovotny.htm). She was closely involved in the Profumo scandal, and slept with top politicans in Britain and the USA (including President Kennedy?). Officially she died of a drugs overdose, shortly after revealing she had written her autobiography) but it is rumoured she was [murdered by British secret agents or the CIA](https://www.mirror.co.uk/news/uk-news/femme-fatale-spy-organiser-orgies-24301549). And, of course, on Jane Fonda in [*Barbarella*]{https://en.wikipedia.org/wiki/Barbarella_(film)).
 
 2. **Normalisation** was the process of reversing the Dubcek reforms and [reimposing hard-line control in Czechoslovakia](https://en.wikipedia.org/wiki/Normalization_(Czechoslovakia)) in the wake of the invasion. Dubcek himself was sent into obscurity as a forestry warden in Slovakia. People were called to Party interviews to account for their actions during the Prague Spring; punishments included demotion or loss of jobs. The joke told here was one going the rounds then. There was an increase in consumer goods to mollify the citizens. The public reacted by retreating into their private lives: holiday cottages, sports, pubs. 
 
