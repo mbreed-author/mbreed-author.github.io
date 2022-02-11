@@ -8,7 +8,9 @@ category: references
 
 ## Chapter 21: Humiliation
 
-1. All the **Mao quotes** are authentic, from the Little Red Book. But the song *The World Turned Upside Down* is adapted from a chorus in the opera *Nixon in China* by John Adams.
+1. All the **Mao quotes** are authentic, mainly from the [Little Red Book](https://www.marxists.org/ebooks/mao/Quotations_from_Chairman_Mao_Tse-tung.pdf). But the song *The World Turned Upside Down* is adapted from a chorus in the opera *Nixon in China* by John Adams. 
+
+1. The spelling Mao Tse-Tung was replaced by the pinyin transliteration Mao Zedong in 1978.
 
 2. The **Red Guards** were the shock troops of Mao's [Great Proletarian Cultural Revolution](https://www.theguardian.com/world/2016/may/11/the-cultural-revolution-50-years-on-all-you-need-to-know-about-chinas-political-convulsion) in 1966-71. They led class struggle sessions denouncing their teachers, as described in this chapter.
 
