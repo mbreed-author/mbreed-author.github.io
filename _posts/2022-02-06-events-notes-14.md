@@ -18,9 +18,9 @@ category: references
 
 4. Janice's sick relative in Banbury perhaps reminds Alex of Bunbury, the imaginary invalid whom Algernon uses as an excuse to escape to the country, in *The Importance of being Earnest*.
 
-5. In the 1990s the delicatessen on the opposite side of Craven Passage was bought by the *Ship and Shovell* inn and turned into a second bar. From the cellar between the bars there is a door to Hungerford Lane, once a street but now an underground road beneath the Charing Cross railway lines, leading to the Embankment Tube station.
+5. In our world the premises on the opposite side of Craven Passage from the *Ship and Shovell* was a grocery shop. The pub acquired it in the 1990s and turned it into a second bar. From the cellar between the bars there is a door to Hungerford Lane, once a street but now an underground roadway running beneath the Charing Cross railway lines, leading to the Embankment Tube station. I am grateful to the helpful landlord and staff of the pub for giving me a virtual tour of the cellar.
 
-5. Harold Wilson as Prime minister was increasingly convinced that he was being **spied on by MI5**. This has been thoroughly investigated and [denied by the Security Service](https://www.mi5.gov.uk/the-wilson-plot).
+5. Harold Wilson as Prime Minister was increasingly convinced that he was being **spied on by MI5**. This has been thoroughly investigated and [denied by the Security Service](https://www.mi5.gov.uk/the-wilson-plot).
 
 6. **Viscount Chesterfield** bears a strong resemblance to [Tony Benn](https://en.wikipedia.org/wiki/Tony_Benn), who renounced his title Viscount Stansgate in order to become an MP. In Wilson's 1964-1970 government he was first Postmaster General, overseeing the construction of the P O Tower, then Minister for Technology, overseeing the development of the Concorde airliner. He became a left-wing hate figure for the media, despite (or because of) his practical achievements and avuncular pip-smoking manner.
 

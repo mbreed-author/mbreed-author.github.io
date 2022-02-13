@@ -22,7 +22,7 @@ category: references
 
 ## Chapter 4:  The Queen's Speech
 
-7. **The Ship and Shovell** is an old London pub with [a unique layout](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2074032-Reviews-Ship_Shovell-London_England.html). This becomes important later in Chapter 14. 
+7. **The Ship and Shovell** is an old London pub with [a unique layout](https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d2074032-Reviews-Ship_Shovell-London_England.html). This becomes important later in Chapter 14. I recommend a visit: it serves a fantastic steak and ale pie.
 
 8. **Moral Rearmament** was an idealistic Christian peace movement in the 1930s.
 
