@@ -16,7 +16,9 @@ category: references
 
 4. **Morecambe and Wise** were hugely popular entertainers. In Autumn 1968 they moved from ATV to BBC2, as the only channel broadcasting in colour.
 
-5. In the 1990s the delicatessen on the opposite side of Craven Passage was bought by the *Ship and Shovell* inn and turned into a second bar. [The pub](https://www.shipandshovell.co.uk/) serves an excellent steak pie. From the second bar you can descend to Hungerford Lane, which runs underground beneath the Charing Cross railway lines to the Embankment.
+4. Janice's sick relative in Banbury perhaps reminds Alex of Bunbury, the imaginary invalid whom Algernon uses as an excuse to escape to the country, in *The Importance of being Earnest*.
+
+5. In the 1990s the delicatessen on the opposite side of Craven Passage was bought by the *Ship and Shovell* inn and turned into a second bar. From the cellar between the bars there is a door to Hungerford Lane, once a street but now an underground road beneath the Charing Cross railway lines, leading to the Embankment Tube station.
 
 5. Harold Wilson as Prime minister was increasingly convinced that he was being **spied on by MI5**. This has been thoroughly investigated and [denied by the Security Service](https://www.mi5.gov.uk/the-wilson-plot).
 

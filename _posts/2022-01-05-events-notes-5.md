@@ -50,6 +50,8 @@ Here's [an aerial view of the Plain in 1968](http://www.acoombe.co.uk/UEA/).
 
 1. The **Schools Democracy Union** is based on the [Schools Action Union](https://en.wikipedia.org/wiki/Schools_Action_Union), formed in 1969. It organised a national school strike in 1972. It soon became dominated by Maoists.
 
+2. **Prince George** was the youngest of King Edward's brothers. In our world he died in 1941 in a plane crash while on a mysterious wartime mission. In Tommy's world hostilities had ended the previous year, so George survives and is tipped to succeed Edward when the King dies. He has a major role in *The Hammond Conjecture*.
+
 2. **Arthur Scargill** led an [unofficial miners strike](https://en.wikipedia.org/wiki/UK_miners%27_strike_(1969)) in 1969.
 
 3. The **International Socialists** became the [Socialist Workers Party](https://en.wikipedia.org/wiki/Socialist_Workers_Party_(UK)) in 1977.
