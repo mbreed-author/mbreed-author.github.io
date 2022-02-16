@@ -16,6 +16,6 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 <br/>
 
-1. [November 1973: Lesotho](/assets/files/1-Nov73.pdf)
+1. [**November 1973: Lesotho**](/assets/files/1-Nov73.pdf)
 
 <br/>
