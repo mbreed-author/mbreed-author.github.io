@@ -14,4 +14,8 @@ I was a student in the annus mirabilis of 1968 when, looking back now, it really
 
 Also, my memories do not form a smooth progression through my life, ready to be biographed, but a jumble of snapshots. And as Dr Jones expounds at length in Conjecture, our memories are anyway largely constructions of our minds, and get modified each time we recall and re-store them. So the scenes I'll feature in this section are not so much a life remembered, as a life dismembered: scattered fragments littering my brain. 
 
-I'll start posting these dismembered fragments here soon (Feb 2022). 
+<br/>
+
+1. [November 1973: Lesotho](/assets/files/1-Nov73.pdf)
+
+<br/>
