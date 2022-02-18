@@ -31,9 +31,13 @@ category: references
 
 ## Chapter 23: Hallucination
 
-1. The [**decimal currency**](https://en.wikipedia.org/wiki/Decimal_Day) was introduced on 15th February 1971. The story about the village shop which didn't believe decimalisation would reach her, was reported in the student newspaper at the time. I recall going into Woolworth's on that day and being given these toytown coins in change, so much smaller and lighter than the pennies and half-crowns we were used to.
+1. **Very flat, Norfolk** is a line from Noel Coward's play *Private Lives*.
 
-2. See [this link](https://traditionalartofnepal.com/the-sacred-symbolism-of-the-kalachakra-mandala/) for the **Kalachakra Mandala**. At the end of Tommy's trip it morphs into [this Escher print](http://web.sbu.edu/theology/bychkov/escher_stairs.html) called *Upstairs and Downstairs*.
+2. The [**decimal currency**](https://en.wikipedia.org/wiki/Decimal_Day) was introduced on 15th February 1971. The story about the village shop which didn't believe decimalisation would reach her, was reported in the student newspaper at the time. I recall going into Woolworth's on that day and being given these toytown coins in change, so much smaller and lighter than the pennies and half-crowns we were used to.
+
+3. See [this link](https://traditionalartofnepal.com/the-sacred-symbolism-of-the-kalachakra-mandala/) for the **Kalachakra Mandala**. At the end of Tommy's trip it morphs into [this Escher print](http://web.sbu.edu/theology/bychkov/escher_stairs.html) called *Upstairs and Downstairs*.
+
+4. The **LP** Tommy is listening to is *All Good Clean Fun*, a two LP compilation from United Artists. See Frontispiece. 
 
 
 <br/>
