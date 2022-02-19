@@ -15,7 +15,7 @@ category: references
 
 2. The **Red Guards** were the shock troops of Mao's [Great Proletarian Cultural Revolution](https://www.theguardian.com/world/2016/may/11/the-cultural-revolution-50-years-on-all-you-need-to-know-about-chinas-political-convulsion) in 1966-71. They led class struggle sessions denouncing their teachers, as described in this chapter.
 
-3. The **abstract poem** recited by Mr Bushell is [Ursonate](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were going to beat him up, but when he started reciting this poem they left him alone and left in disgust.
+3. The **abstract poem** recited by Mr Bushell is [Ursonate](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were starting to beat him up, but when he started reciting this poem they stopped and left in disgust.
 
 
 <br/>
@@ -46,7 +46,7 @@ category: references
 
 1. **The Who** played the University of East Anglia on 27th October 1970 (which to my shame I have no recollection of).
 
-2. Some features of the resistance to the Army Intervention reflect the [**August 1968 invasion of Czechoslovakia**](https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia) by Brezhnev's Soviet Union and its Warsaw Pact allies. 
+2. Some features of the resistance to the Army Intervention reflect the public reaction to the [**August 1968 invasion of Czechoslovakia**](https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia) by Brezhnev's Soviet Union and its Warsaw Pact allies. 
 
 
 <br/>
@@ -84,7 +84,7 @@ category: references
 
 ## Chapter 28: Infantilisation
 
-1. Alex's **modest proposal** is consistent with 1969n Normalisation measures in the CSSR, including the National Artist (Narodni Umelec) scheme and consumerism.
+1. Alex's **modest proposal** is consistent with 1969 Normalisation measures in Czechoslovakia, including the National Artist (Narodni Umelec) scheme and consumerism.
 
 2. For more details of **airship travel** see *The Hammond Conjecture*.
 
