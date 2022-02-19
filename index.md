@@ -21,7 +21,7 @@ London 1982 – perhaps. Regaining consciousness in an isolation ward of cataton
 
 Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? 
 
-Read the [review on file770.com](http://file770.com/review-the-hammond-conjecture/)
+Read the [review on file770.com](http://file770.com/review-the-hammond-conjecture/). It has been voted by them as a semi-finalist in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
 
 “Very well thought-out … Reminds me of Michael Moorcock’s earlier novels.” – Gary Gibson, leading British sci-fi writer.
 
@@ -39,6 +39,7 @@ Read the [review on file770.com](http://file770.com/review-the-hammond-conjectur
 [*The Hammond Conjecture* on Goodreads](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture){:.btn .center}{:target="_blank"}
 
 <br/>
+
 
 
 Intrigued? Click the button below to subscribe to my monthly newsletter. In return, you will receive a free **Pentacle Papers** compendium *The Final Patient*, containing stories and opening chapters of the three Pentacle Papers novels: 
