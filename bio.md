@@ -20,6 +20,6 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 <br/>
 
-2. [**Lesotho 1973-74**}(/assets/files/2-73-74-lesotho.pdf)
+2. [**Lesotho 1973-74**](/assets/files/2-73-74-lesotho.pdf)
 
 <br/>
