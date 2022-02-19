@@ -15,7 +15,7 @@ category: references
 
 2. The **Red Guards** were the shock troops of Mao's [Great Proletarian Cultural Revolution](https://www.theguardian.com/world/2016/may/11/the-cultural-revolution-50-years-on-all-you-need-to-know-about-chinas-political-convulsion) in 1966-71. They led class struggle sessions denouncing their teachers, as described in this chapter.
 
-3. The abstract poem recited by Mr Bushell is [**Ursonate**](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were going to beat him up, but when he started reciting this poem they left him alone and left in disgust.
+3. The **abstract poem** recited by Mr Bushell is [Ursonate](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were going to beat him up, but when he started reciting this poem they left him alone and left in disgust.
 
 
 <br/>
