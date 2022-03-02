@@ -10,7 +10,7 @@ menu: home
 Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* and other stories, it contains the opening chapters of the three Pentacle Papers novels:
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
 2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (appearing soon)
-3. *The Hammond Catastrophe* (in preparation)
+3. [*The Hammond Catastrophe*](https://mybook.to/catastrophe) (in preparation)
 
 <br/>
 
@@ -25,9 +25,7 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 
 **NEWS**
 
-<br/>
-
-Read the [review of *Conjecture* on file770.com](http://file770.com/review-the-hammond-conjecture/). 
+Read the review of *Conjecture* on [file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
 *Conjecture* is a semi-finalist in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
 
@@ -54,14 +52,9 @@ Meanwhile in the hospital Hugh struggles to understand his predicament, and to e
 *Very well thought-out. Reminds me of Michael Moorcock’s earlier novels.* – Gary Gibson, leading British sci-fi writer. 
 
 <br/>
-<br/>
 
 [*The Hammond Conjecture* on Amazon](https://mybook.to/conjecture) 
 
-<br/>
-<br/>
-
-[*The Hammond Conjecture* on Goodreads](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture)
 ​
 <br/>
 
@@ -74,16 +67,49 @@ Meanwhile in the hospital Hugh struggles to understand his predicament, and to e
 
 <br/>
 
-The novel is set in 1968, in a Britain which had signed a peace treaty with Hitler in 1941. It follows the development of the young Thomas Hammond from shy, insecure and sexually confused schoolboy to a centred young man who has learned the difference between sex and love, and who is prepared to fight for whom, rather than what, he believes in.
+*The Events of 1968* is set in Hugh Hammond's alternative world in the year before he returned to Britain. It follows the coming-of-age of his younger brother Thomas from shy, insecure and sexually confused schoolboy to a centred young man who has learned the difference between sex and love, and who is prepared to fight for whom, rather than what, he believes in.
 
 Sixteen-year-old Tommy doesn’t question his sheltered, repressed life until he meets Iona at the school disco. She introduces him to a world of Left Bank intellectuals and left-wing philosophers. When King Edward VIII appoints a populist kleptocrat as PM they become politically active, organising a schoolkids trade union. But as parliamentary democracy collapses and fascists and anarchists run wild, their relationship also hits the rocks. Iona is sucked into Maoist fervour while Tommy takes an LSD trip at university which reveals his childhood trauma.
 
 After an Army coup, student activists stage a doomed sit-in in Trafalgar Square. A massacre is threatened: does Iona survive? Will Tommy find her? Will she renounce activism and return to him? Does he really want her to?
 
+<br/>
+
+[*The Events of 1968* on Amazon](https://mybook.to/events) 
+
+​
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
 
 <br/>
+
+
+![The Hammond Catastrophe: When Worlds Collide](/assets/img/cat-cover.png){:class="large-img"}
+
+<br/>
+
+The story picks up from where the parallel timelines in *The Hammond Conjecture* ended:
+
+It is 1984. Major Carlton is running a maverick Military Intelligence investigation aiming to prove that Europe faces an interdimensional invasion by a nuclear-armed Third Reich from a parallel world. He is unaware that the powers-that-be have decided to close down this ludicrous operation, and to eliminate its star witness, who claims to have himself been transmitted from the other world.
+
+Meanwhile it is 1973 in an almost identical parallel universe of which we know nothing. A fugitive MI6 officer who has been hiding out in Algiers, is tracked down and abducted by his erstwhile colleagues. He is to be sent on a perilous mission into the heart of the Third Reich, where in a secret institute a team of quantum physicists are thought to be developing a form of teleportation, which would be used to further the Führer’s dream of world domination. His task is to disrupt their activities.
+
+Only these two men can foil the Führer’s dream of multi-world domination and prevent catastrophe. Unfortunately both of them are Hugh Hammond.
+
+*Hugh Hammond is an everyman, who thinks with every organ other than his brain.*
+Stella, Amazon reviewer of *Conjecture*
+
+
+​
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 ---
 _“When I imagine things, I imagine the truth. It’s so much better when it comes from how you imagine it, rather than how you report it.”_ – Ray Davies (of The Kinks) 1973
