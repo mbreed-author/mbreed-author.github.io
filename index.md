@@ -7,7 +7,7 @@ menu: home
 *The Third Reich meets the Swinging Sixties, quantum mechanics meets neuroscience, British humour meets cyberpunk*
 <br/>
 
-Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* and other stories, it contains the opening chapters of the three Pentacle Papers novels:
+Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* (long-listed for the Fish Publishing short story award 2020) and other stories, it contains the opening chapters of the three Pentacle Papers novels:
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
 2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (appearing soon)
 3. [*The Hammond Catastrophe*](https://mybook.to/catastrophe) (in preparation)
@@ -17,11 +17,6 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 [Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
 
-<br/>
-
----
-
-<br/>
 
 **NEWS**
 
@@ -30,12 +25,12 @@ Read the review of *Conjecture* on [file770.com](http://file770.com/review-the-h
 *Conjecture* is a semi-finalist in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
 
 <br/>
+
 ---
+
 <br/>
 
 ![The Hammond Conjecture](/assets/img/cover-full-v4.png){:class="large-img"}
-
-<br/>
 
 *The Hammond Conjecture* is an alternative-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
 
@@ -65,7 +60,6 @@ Meanwhile in the hospital Hugh struggles to understand his predicament, and to e
 
 ![The Events of 1968: An Alternative History](/assets/img/events-uea-cover.png){:class="large-img"}
 
-<br/>
 
 *The Events of 1968* is set in Hugh Hammond's alternative world in the year before he returned to Britain. It follows the coming-of-age of his younger brother Thomas from shy, insecure and sexually confused schoolboy to a centred young man who has learned the difference between sex and love, and who is prepared to fight for whom, rather than what, he believes in.
 
@@ -79,9 +73,6 @@ After an Army coup, student activists stage a doomed sit-in in Trafalgar Square.
 
 ​
 <br/>
-<br/>
-<br/>
-<br/>
 
 ---
 
@@ -90,7 +81,6 @@ After an Army coup, student activists stage a doomed sit-in in Trafalgar Square.
 
 ![The Hammond Catastrophe: When Worlds Collide](/assets/img/cat-cover.png){:class="large-img"}
 
-<br/>
 
 The story picks up from where the parallel timelines in *The Hammond Conjecture* ended:
 
@@ -100,13 +90,16 @@ Meanwhile it is 1973 in an almost identical parallel universe of which we know n
 
 Only these two men can foil the Führer’s dream of multi-world domination and prevent catastrophe. Unfortunately both of them are Hugh Hammond.
 
-*Hugh Hammond is an everyman, who thinks with every organ other than his brain.*
-Stella, Amazon reviewer of *Conjecture*
+*Hugh Hammond is an everyman, who thinks with every organ other than his brain.* - Amazon reviewer of *Conjecture*
 
+<br/>
+
+[*The Hammond Catastrophe* on Amazon](https://mybook.to/catastrophe) 
 
 ​
 <br/>
-<br/>
+
+​
 <br/>
 <br/>
 
