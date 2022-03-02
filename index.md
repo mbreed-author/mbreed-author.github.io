@@ -7,10 +7,12 @@ menu: home
 *The Third Reich meets the Swinging Sixties, quantum mechanics meets neuroscience, British humour meets cyberpunk*
 <br/>
 
-Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as this and other stories, it contains the opening chapters of the three Pentacle Papers novels:
+Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* and other stories, it contains the opening chapters of the three Pentacle Papers novels:
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
 2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (appearing soon)
 3. *The Hammond Catastrophe* (in preparation)
+
+<br/>
 
 [Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
@@ -18,9 +20,15 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 
 **NEWS**
 
+<br/>
+
 Read the [review of *Conjecture* on file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
 Feb 2022: *Conjecture* has been voted by File770 as one of their semi-finalists in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
+
+<br/>
+
+---
 
 <br/>
 
