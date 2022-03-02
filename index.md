@@ -44,7 +44,6 @@ London 1982 – perhaps. Regaining consciousness in an isolation ward of cataton
 
 Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? 
 
-<!---“Very well thought-out … Reminds me of Michael Moorcock’s earlier novels.” – Gary Gibson, leading British sci-fi writer.--->
 
 [*The Hammond Conjecture* on Amazon](https://mybook.to/conjecture) | [*The Hammond Conjecture* on Goodreads](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture)
 ​
@@ -66,27 +65,7 @@ Sixteen-year-old Tommy doesn’t question his sheltered, repressed life until he
 After an Army coup, student activists stage a doomed sit-in in Trafalgar Square. A massacre is threatened: does Iona survive? Will Tommy find her? Will she renounce activism and return to him? Does he really want her to?
 
 
-
-
-<!---{:.btn .center}{:target="_blank"}--->
-
 <br/>
-
-{:.btn .center}{:target="_blank"}
-
-<br/>
-
-
-
-
-
-<br/>
-
-The story *The Final Patient* was long-listed for the [Fish Publishing Short Story Prize](https://www.fishpublishing.com/2020/03/16/short-story-prize-2019-20-results-short-long-lists/#long). 
-I won't pass on your email, or use it for anything else. Thanks!
-
-
-
 <br/>
 <br/>
 
