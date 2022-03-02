@@ -16,6 +16,11 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 
 [Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
+
+<br/>
+
+---
+
 <br/>
 
 **NEWS**
@@ -27,11 +32,12 @@ Read the [review of *Conjecture* on file770.com](http://file770.com/review-the-h
 *Conjecture* is a semi-finalist in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
 
 <br/>
-
 ---
-
+<br/>
 
 ![The Hammond Conjecture](/assets/img/cover-full-v4.png){:class="large-img"}
+
+<br/>
 
 *The Hammond Conjecture* is an alternative-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
 
@@ -70,7 +76,7 @@ Meanwhile in the hospital Hugh struggles to understand his predicament, and to e
 
 The novel is set in 1968, in a Britain which had signed a peace treaty with Hitler in 1941. It follows the development of the young Thomas Hammond from shy, insecure and sexually confused schoolboy to a centred young man who has learned the difference between sex and love, and who is prepared to fight for whom, rather than what, he believes in.
 
-Sixteen-year-old Tommy doesn’t question his sheltered, repressed life until he meets Iona at the school disco. She introduces him to a world of Left Bank intellectuals and left-wing philosophers. When King Edward VIII appoints a populist kleptocrat as PM they become politically active, organising a schoolkids’ trade union. But as parliamentary democracy collapses and fascists and anarchists run wild, their relationship also hits the rocks. Iona is sucked into Maoist fervour while Tommy takes an LSD trip at university which reveals his childhood trauma.
+Sixteen-year-old Tommy doesn’t question his sheltered, repressed life until he meets Iona at the school disco. She introduces him to a world of Left Bank intellectuals and left-wing philosophers. When King Edward VIII appoints a populist kleptocrat as PM they become politically active, organising a schoolkids trade union. But as parliamentary democracy collapses and fascists and anarchists run wild, their relationship also hits the rocks. Iona is sucked into Maoist fervour while Tommy takes an LSD trip at university which reveals his childhood trauma.
 
 After an Army coup, student activists stage a doomed sit-in in Trafalgar Square. A massacre is threatened: does Iona survive? Will Tommy find her? Will she renounce activism and return to him? Does he really want her to?
 
