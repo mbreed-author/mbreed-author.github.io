@@ -24,17 +24,14 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 
 Read the [review of *Conjecture* on file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
-Feb 2022: *Conjecture* has been voted by File770 as one of their semi-finalists in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
+*Conjecture* is a semi-finalist in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
 
 <br/>
 
 ---
 
-<br/>
 
 ![The Hammond Conjecture](/assets/img/cover-full-v4.png){:class="large-img"}
-
-<br/>
 
 *The Hammond Conjecture* is an alternative-history novel which explores themes of memory, identity and historical narrative. It is also a lot of fun.
 
@@ -42,10 +39,23 @@ Are you sure you know who you are? If your memories disappeared and were replace
 
 London 1982 – perhaps. Regaining consciousness in an isolation ward of catatonic patients, glimpsing the outside world only through a television news bulletin, that is the dilemma facing Hugh Hammond.
 
-Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? 
+Gradually Hugh’s memories return – of his life as an MI6 officer a decade earlier. But in a world where Britain has been locked in a lonely Cold War against a Fascist-dominated Europe. Are his memories false: delusions, or implanted as part of a mind-control experiment? Or was the television news fake – and if so, why? And what is the role of Carlton, the shadowy Intelligence officer who delivered him to the hospital?
 
+Hugh types out his recollections: an adventure which takes him from an opium den in Limehouse, via a hippie encampment in British-occupied North France, to a State Reception for the Deputy Führer in the Durbar Court in Whitehall, and a Le Carré-style climax in the divided city of Paris.
 
-[*The Hammond Conjecture* on Amazon](https://mybook.to/conjecture) | [*The Hammond Conjecture* on Goodreads](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture)
+Meanwhile in the hospital Hugh struggles to understand his predicament – and to escape from it. But escape only leads him into greater danger…
+
+“Very well thought-out … Reminds me of Michael Moorcock’s earlier novels.” – Gary Gibson, leading British sci-fi writer. 
+
+<br/>
+<br/>
+
+[*The Hammond Conjecture* on Amazon](https://mybook.to/conjecture) 
+
+<br/>
+<br/>
+
+[*The Hammond Conjecture* on Goodreads](https://www.goodreads.com/book/show/48593207-the-hammond-conjecture)
 ​
 <br/>
 
