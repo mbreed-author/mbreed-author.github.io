@@ -4,6 +4,7 @@ menu: home
 ---
 
 # The Pentacle Papers
+
 *The Third Reich meets the Swinging Sixties, quantum mechanics meets neuroscience, British humour meets cyberpunk*
 <br/>
 
