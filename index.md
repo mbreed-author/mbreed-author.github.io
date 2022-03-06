@@ -11,14 +11,14 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
 2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (appearing soon)
 3. [*The Hammond Catastrophe*](https://mybook.to/catastrophe) (in preparation)
-
+Scroll down for more information.
 <br/>
 
 [Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
 
 
-**NEWS**
+## NEWS
 
 Read the review of *Conjecture* on [file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
@@ -100,11 +100,8 @@ Only these two men can foil the Führer’s dream of multi-world domination and 
 
 ​
 <br/>
-
-​
 <br/>
 <br/>
-
 
 ---
 _“When I imagine things, I imagine the truth. It’s so much better when it comes from how you imagine it, rather than how you report it.”_ – Ray Davies (of The Kinks) 1973
