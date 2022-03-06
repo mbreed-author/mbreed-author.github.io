@@ -8,13 +8,14 @@ menu: home
 <br/>
 
 Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* (long-listed for the Fish Publishing short story award 2020) and other stories, it contains the opening chapters of the three Pentacle Papers novels; click for Amazon links:
+
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
 2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (publishing on or before 31st March)
 3. [*The Hammond Catastrophe*](https://mybook.to/catastrophe) (in preparation)
 
 <br/>
 
-Scroll down for details of the novels. Or click the FOOTNOTES link at the top to read the accompanying notes.
+Scroll down for details of the novels. Or click the FOOTNOTES link to read the accompanying notes.
 
 <br/>
 
