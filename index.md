@@ -11,11 +11,16 @@ Click the button below to subscribe to my monthly newsletter. In return, you wil
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
 2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (appearing soon)
 3. [*The Hammond Catastrophe*](https://mybook.to/catastrophe) (in preparation)
-Scroll down for more information.
+
+<br/>
+
+Scroll down for details of the novels. Or click the FOOTNOTES link to read the accompanying notes.
+
 <br/>
 
 [Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
 
+<br/>
 
 
 ## NEWS
