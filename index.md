@@ -20,7 +20,7 @@ Scroll down for details of the novels. Or click the FOOTNOTES link to read the a
 
 <br/>
 
-[Subscribe to my newsletter](https://mailchi.mp/b0fc2207af03/newsletter-signup){:.btn .center}{:target="_blank"}
+[Subscribe to my newsletter](https://storyoriginapp.com/giveaways/4ddcce98-c02b-11ea-bd8b-f770e51f6195){:.btn .center}{:target="_blank"}
 
 <br/>
 
