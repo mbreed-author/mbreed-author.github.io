@@ -9,7 +9,11 @@ category: references
 
 ## Chapter 21: Humiliation
 
-1. All the **Mao quotes** are authentic, mainly from the [Little Red Book](https://www.marxists.org/ebooks/mao/Quotations_from_Chairman_Mao_Tse-tung.pdf). But the song *The World Turned Upside Down* is adapted from a chorus in the opera *Nixon in China* by John Adams. 
+1. Chesterfield's speech at the start is from Mao. All the other **Mao quotes** are authentic, mainly from the [Little Red Book](https://www.marxists.org/ebooks/mao/Quotations_from_Chairman_Mao_Tse-tung.pdf). But the song *The World Turned Upside Down* is adapted from a chorus in the opera *Nixon in China* by John Adams. 
+
+1. Neighbourhood Committees for the Defence of the Revolution were a feature of Castro's Cuba.
+
+1. The Schools Action Union was born out of a campaign against assessment, involving tearing up exam scripts.
 
 1. The spelling Mao Tse-Tung was replaced by the pinyin transliteration Mao Zedong in 1978.
 
@@ -18,11 +22,15 @@ category: references
 3. The **abstract poem** recited by Mr Bushell is [Ursonate](https://www.costis.org/x/schwitters/ursonate.htm) by Kurt Schwitters. The surrealist George Melly was surrounded by yobs in a pub car park after a performance, who were starting to beat him up, but when he started reciting this poem they stopped and left in disgust.
 
 
+
+
 <br/>
 
 ## Chapter 22: Occupation
 
 1. The Cultural Revolution in Socialist Britain is strangely prescient of modern-day events.
+
+4. The minibus with weapons poking out, driving around the main square, was something i witnessed in Addis Ababa in 1977 on a brief stopover. Colonel Menghistu was in control of the city, but not the country.
 
 2. While I was a student at UEA 1968-71, an American postgrad was arrested by the police for possession of cannabis. Magistrates gave him a fine. But then the university Registrar also expelled him. Students saw this as double jeopardy and we had our own student protests, culminating in **the occupation of the Arts Block**.
 
