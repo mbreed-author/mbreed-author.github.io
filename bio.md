@@ -20,4 +20,6 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 2. [**Lesotho 1973-74**](/assets/files/2-73-74-lesotho.pdf) (February 2022)
 
+3. [**Sussex 1971-72**](/assets/files/3-71-72-Sussex.pdf) (March 2022)
+
 <br/>
