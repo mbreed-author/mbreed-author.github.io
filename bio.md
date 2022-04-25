@@ -12,7 +12,7 @@ I find it hard to believe, but I was born way back in 1950. Now I no longer thin
 
 I was a student in the *annus mirabilis* of 1968 when, looking back now, it really was bliss to be alive, but to be young was very heaven (though it's a pity we didn't know that at the time). In the 70s and 80s I worked in universities in some of the more remote corners of the world: Lesotho, Swaziland, Papua New Guinea, Dar es Salaam, Uxbridge. I thought it would be worth recording my recollections of these vanished worlds. I've been able to use the memories in my novels, and decide how my fictional characters act in them, but I cannot get inside the head of the confused, unreal character who is/was my younger self. I can't explain or sympathise with his behaviour, his decisions back then. 
 
-Also, my memories do not form a smooth progression through my life, ready to be biographed, but a jumble of snapshots. And as Dr Jones expounds at length in *Conjecture*, our memories are anyway largely constructions of our minds, and get modified each time we recall and re-store them. So these 'unreliable memoirs' are not so much a life remembered, as a life dismembered: scattered fragments littering my brain. I'll feature them in my monthly newsletter, then paste them below.
+Also, my memories do not form a smooth progression through my life, ready to be biographed, but a jumble of snapshots. And as Dr Jones expounds at length in *Conjecture*, our memories are anyway largely constructions of our minds, and get modified each time we recall and re-store them. So these 'unreliable memoirs' are not so much a life remembered, as a life dismembered: scattered fragments littering my brain. I'll feature them in my monthly newsletter, then paste them below:
 
 <br/>
 
