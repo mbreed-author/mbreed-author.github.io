@@ -24,4 +24,8 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 4. [**Italy 1968-69**](/assets/files/4-68-Italy.pdf) (April 2022)
 
+5.  [**Hamburg 1972-73**](/assets/files/5-72-73-Hamburg.pdf) (May 2022)
+
+
+
 <br/>
