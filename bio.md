@@ -26,6 +26,8 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 5. [**Hamburg 1972-73**](/assets/files/5-72-73-Hamburg.pdf) (May 2022)
 
+6. [**Bournemouth 1973**](/assets/files/6-73-Bournemouth.pdf) (June 2022)
+
 
 
 <br/>
