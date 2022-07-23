@@ -29,10 +29,16 @@ Scroll down for details of the novels. Or click the FOOTNOTES link to read the a
 
 Read the review of *Conjecture* on [file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
-![SPSFC 2021](/assets/img/SPSFC_RaygunLogo_Semifinalist_Color.png){:class="large-img"}
+![SPSFC 2021](/assets/img/SPSFC_RaygunLogo_Semifinalist_Color.png)
 *Conjecture* was a semi-finalist in the [Self-Published Science Fiction Competition 2021](http://file770.com/team-file-770s-semifinalists-for-the-self-published-science-fiction-competition/comment-page-1/) 
 
 <br/>
+
+
+<br/>
+
+<br/>
+
 
 ---
 
