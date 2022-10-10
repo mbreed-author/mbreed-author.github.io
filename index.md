@@ -8,11 +8,11 @@ menu: home
 *The Third Reich meets the Swinging Sixties, quantum mechanics meets neuroscience, British humour meets cyberpunk*
 <br/>
 
-Click the button below to subscribe to my monthly newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* (long-listed for the Fish Publishing short story award 2020) and other stories, it contains the opening chapters of the three Pentacle Papers novels:
+Click the button below to subscribe to my occasional newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* (long-listed for the Fish Publishing short story award 2020) and other stories, it contains the opening chapters of the three Pentacle Papers novels:
 
 1. [*The Hammond Conjecture*](https://mybook.to/conjecture) (already published) 
-2. [*The Events of 1968: An Alternative History*](https://mybook.to/events) (publishing on or before 31st March)
-3. [*The Hammond Catastrophe*](https://mybook.to/catastrophe) (in preparation)
+2. *The Events of 1968: An Alternative History* (publishing soon)
+3. *The Hammond Catastrophe* (in preparation)
 
 <br/>
 
@@ -86,7 +86,7 @@ In August the political violence reaches its peak in Trafalgar Square. Does Iona
 
 <br/>
 
-[*The Events of 1968* on Amazon](https://mybook.to/events) 
+[*The Events of 1968* on Amazon - coming soon](https://mybook.to/events) 
 
 ​
 <br/>
@@ -101,19 +101,15 @@ In August the political violence reaches its peak in Trafalgar Square. Does Iona
 ![The Hammond Catastrophe: When Worlds Collide](/assets/img/cat-cover.png){:class="large-img"}
 
 
-The story picks up from where the parallel timelines in *The Hammond Conjecture* ended:
+The story picks up from where the timelines in *The Hammond Conjecture* ended.
 
-It is 1984. Major Carlton is running a maverick Military Intelligence investigation aiming to prove that Europe faces an interdimensional invasion by a nuclear-armed Third Reich from a parallel world. He is unaware that the powers-that-be have decided to close down this ludicrous operation, and to eliminate its star witness, who claims to have himself been transmitted from the other world.
-
-Meanwhile it is 1973 in an almost identical parallel universe of which we know nothing. A fugitive MI6 officer who has been hiding out in Algiers, is tracked down and abducted by his erstwhile colleagues. He is to be sent on a perilous mission into the heart of the Third Reich, where in a secret institute a team of quantum physicists are thought to be developing a form of teleportation, which would be used to further the Führer’s dream of world domination. His task is to disrupt their activities.
-
-Only these two men can foil the Führer’s dream of multi-world domination and prevent catastrophe. Unfortunately both of them are Hugh Hammond.
+Only two men can foil the Führer’s dream of multi-world domination. Unfortunately both of them are Hugh Hammond.
 
 *Hugh Hammond is an everyman, who thinks with every organ other than his brain.* - Amazon reviewer of *Conjecture*
 
 <br/>
 
-[*The Hammond Catastrophe* on Amazon](https://mybook.to/catastrophe) 
+[*The Hammond Catastrophe* on Amazon - coming later](https://mybook.to/catastrophe) 
 
 ​
 <br/>
