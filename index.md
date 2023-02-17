@@ -73,10 +73,10 @@ Meanwhile in the hospital Hugh struggles to understand his predicament, and to e
 <br/>
 
 
-![The Events of 1968: An Alternative History](/assets/img/events-uea-cover.png){:class="large-img"}
+![The Hammond Rebellion: An Alternative History of 1968](/assets/img/Rebellion-uea-airship.png){:class="large-img"}
 
 
-*The Events of 1968* is set in Hugh Hammond's alternative world in the year before he returned to Britain. It follows the coming-of-age of his younger brother Thomas from shy, insecure and sexually confused schoolboy to a centred young man who has learned the difference between sex and love, and who is prepared to fight for whom, rather than what, he believes in.
+*The Hammond Rebellion* is set in Hugh Hammond's alternative world in the year before he returned to Britain. It follows the coming-of-age of his younger brother Thomas from shy, insecure and sexually confused schoolboy to a centred young man who has learned the difference between sex and love, and who is prepared to fight for whom, rather than what, he believes in.
 
 Tommy doesn’t question his sheltered, repressed life until he meets Iona at the Sixth Form disco. She introduces him to a world of Left Bank intellectuals and left-wing philosophers. When King Edward VIII appoints a populist kleptocrat as PM they become politically active, organising a schoolkids trade union. But as democracy collapses and fascists and anarchists run wild, their relationship also hits the rocks. Iona is sucked into Maoist fervour while Tommy takes acid and drops out. 
 Around them, a cast of journalists and spies, soldiers and activists and an underground resistance movement scheme and betray each other.  
@@ -86,7 +86,7 @@ In August the political violence reaches its peak in Trafalgar Square. Does Iona
 
 <br/>
 
-[*The Events of 1968* on Amazon - coming soon](https://mybook.to/events) 
+[*The Hammond Rebellion* on Amazon - coming soon](https://mybook.to/events) 
 
 ​
 <br/>
