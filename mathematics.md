@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mathematics Publications
+title: Mathematics
 menu: mathematics
 permalink: /mathematics/
 image: /assets/img/5.jpg
