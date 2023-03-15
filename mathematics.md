@@ -50,4 +50,4 @@ I have also supervised projects applying ant colony optimisation (ACO) to the ca
 <br/>
 <br/>
 
-[List of Publications](/assets/files/publications.pdf){:.btn .center}{:target="_blank"}
+[List of Publications](http://mbreed.co.uk/assets/files/publications.pdf){:.btn .center}{:target="_blank"}
