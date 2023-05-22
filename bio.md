@@ -28,6 +28,8 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 6. [**Bournemouth 1973**](/assets/files/6-73-Bournemouth.pdf) (June 2022)
 
+7. [**Swaziland 1974**](/assets/files/7-74-Swaziland.pdf) (May 2023)
+
 
 
 <br/>
