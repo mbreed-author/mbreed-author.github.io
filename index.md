@@ -3,7 +3,7 @@ layout: home
 menu: home
 ---
 
-# The Pentacle Papers
+# [The Pentacle Papers](https://mybook.to/kt5uCq)
 
 *The Third Reich meets the Swinging Sixties*
 
