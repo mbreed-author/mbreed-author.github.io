@@ -3,9 +3,9 @@ layout: home
 menu: home
 ---
 
-# [The Pentacle Papers](https://mybook.to/kt5uCq)
+# The Pentacle Papers
 
-*The Third Reich meets the Swinging Sixties*
+[*The Third Reich meets the Swinging Sixties*](https://mybook.to/kt5uCq)
 
 Click the button below to subscribe to my occasional newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* (long-listed for the Fish Publishing short story award 2020) and other stories, it contains the opening chapters of the three Pentacle Papers novels:
 
