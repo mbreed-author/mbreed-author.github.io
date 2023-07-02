@@ -10,7 +10,7 @@ menu: home
 Click the button below to subscribe to my occasional newsletter. In return, you will receive a free compendium *The Final Patient*. As well as *Patient* (long-listed for the Fish Publishing short story award 2020) and other stories, it contains the opening chapters of the three Pentacle Papers novels:
 
 1. [*The Hammond Conjecture: Quantum mechanics meets neuroscience, British humour meets cyberpunk*](https://mybook.to/conjecture) 
-2. [*The Hammond Perception: Romance and revolution in an alternative 1968*] (https://mybook.to/perception68)
+2. [*The Hammond Perception: Romance and revolution in an alternative 1968*](https://mybook.to/perception68)
 3. *The Hammond Catastrophe* (in preparation)
 
 <br/>
