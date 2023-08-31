@@ -27,6 +27,10 @@ Scroll down for details of the novels. Or click the FOOTNOTES link to read the a
 
 ## NEWS
 
+I have made a video to advertise *Perception*, and shared it on Instagram. To view it click
+[here](/assets/img/perc-slideshow-video.mp4).
+
+<br/>
 
 Read the review of *Conjecture* on [file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
