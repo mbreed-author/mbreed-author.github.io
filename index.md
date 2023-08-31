@@ -27,6 +27,11 @@ Scroll down for details of the novels. Or click the FOOTNOTES link to read the a
 
 ## NEWS
 
+31/8/23: I have created a video to advertise *Perception*. You can view it by clicking 
+[here](/assets/img/perc-slideshow-video.mp4).
+
+<br/> 
+
 Read the review of *Conjecture* on [file770.com](http://file770.com/review-the-hammond-conjecture/). 
 
 ![SPSFC 2021](/assets/img/SPSFC_RaygunLogo_Semifinalist_Color.png)
