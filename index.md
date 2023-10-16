@@ -27,6 +27,11 @@ Scroll down for details of the novels. Or click the FOOTNOTES link to read the a
 
 ## NEWS
 
+I have made a video of a newsreel of the alternative 1940s. To view it click
+[here](/assets/img/newsreel2-1940s-video10.mp4).
+
+<br/>
+
 I have made a video to advertise *Perception*, and shared it on Instagram. To view it click
 [here](/assets/img/perc-slideshow-video.mp4).
 
