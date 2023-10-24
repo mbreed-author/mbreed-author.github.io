@@ -27,8 +27,8 @@ Scroll down for details of the novels. Or click the FOOTNOTES link to read the a
 
 ## NEWS
 
-I have made a video of a newsreel of the alternative 1940s. To view it click
-[here](/assets/img/newsreel2-1940s-video10.mp4).
+24/10/2023: I have made a video of a newsreel of the alternative 1940s. To view it click
+[here](/assets/img/newsreel3-1940s.mp4).
 
 <br/>
 
