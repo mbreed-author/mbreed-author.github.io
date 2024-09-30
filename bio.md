@@ -30,6 +30,8 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 7. [**Swaziland 1974**](/assets/files/7-74-Swaziland.pdf) (May 2023)
 
+8. [**Prague 1969**](/assets/files/8-69-Prague.pdf) (September 2024)
+
 
 
 <br/>
