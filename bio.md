@@ -32,6 +32,8 @@ Also, my memories do not form a smooth progression through my life, ready to be 
 
 8. [**Prague 1969**](/assets/files/8-69-Prague.pdf) (September 2024)
 
+9. [**Mozambique 1974**](/assets/files/9-74-Mozambique1.pdf)  (December 2024)
+
 
 
 <br/>
