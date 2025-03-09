@@ -31,7 +31,7 @@ My PhD (University of Bath 1980) was on finite element techniques to model soil-
 ##### 1980 - 2001
 I was Principal Investigator on projects funded by EPSRC, British Coal and by Geodata SpA in Italy. These developed efficient techniques for the finite element modelling of rock tunnels.
 
-I also produced a finite element learning package, [FELIPE](http://www.felipe.co.uk/){:target="_blank"}. 
+I also produced a finite element learning package, [FELIPE](http://www.felipe.co.uk/){:target="_blank"}. Contact me if you want a copy for your own study. 
 
 
 ### Quasi-Newton methods for unconstrained optimisation
@@ -43,7 +43,7 @@ I worked on limited-storage QN algorithms, and developed a new LSQN algorithm: U
 ##### 2001-2014
 This field uses ideas from nature to produce algorithms for the solution of optimisation problems. 
 
-I produced a genetic algorithm to perform sequence alignment in bioinformatics; [click here](http://people.bath.ac.uk/mbr20/bioinf/) to see it in action. 
+I produced a genetic algorithm to perform sequence alignment in bioinformatics. 
 
 I have also supervised projects applying ant colony optimisation (ACO) to the capacitated vehicle routing problem (a variant of the Travelling Salesman Problem).
 
