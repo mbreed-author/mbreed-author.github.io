@@ -15,6 +15,10 @@ Oxford University Press, 2011
 
 [*Core Maths for the Biosciences*](https://global.oup.com/ukhe/product/core-maths-for-the-biosciences-9780199216345?cc=gb&lang=en&) introduces the range of mathematical concepts that bioscience students need to master during their studies. Starting from fundamental concepts, it blends clear explanations and biological examples throughout as it equips the reader with the full range of mathematical tools required by biologists today.
 
+OUP no longer provide the Online Resource Centre for this book. You can download the files from the links below:
+[Excel.zip](/assets/files/coremaths/Excel.zip)
+ 
+
 
 [Amazon.co.uk](https://www.amazon.co.uk/Core-Maths-Biosciences-Martin-Reed/dp/0199216347/)
 
