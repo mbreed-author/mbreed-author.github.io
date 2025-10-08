@@ -15,10 +15,10 @@ Oxford University Press, 2011
 
 *Core Maths for the Biosciences* introduces the range of mathematical concepts that bioscience students need to master during their studies. Starting from fundamental concepts, it blends clear explanations and biological examples throughout as it equips the reader with the full range of mathematical tools required by biologists today.
 
-<br/>To buy, go to your local Amazon page: [https://mybook.to/coremaths](https://mybook.to/coremaths){:target="_blank"}
+To buy, go to your local Amazon page: [https://mybook.to/coremaths](https://mybook.to/coremaths){:target="_blank"}
 <br/>or to [OUP.com](https://global.oup.com/ukhe/product/core-maths-for-the-biosciences-9780199216345?cc=gb&lang=en&){:target="_blank"}
 
-*OUP no longer provide the Online Resource Centre for this book.* You can download the .zip files containing the Excel workbooks and problem solutions by clicking on the links below:
+**OUP no longer provide the Online Resource Centre for this book.** You can download the .zip files containing the Excel workbooks and problem solutions by clicking on the links below:
 <br/>
 * [Excel workbooks](/assets/files/coremaths/Excel.zip)
 * [Student solutions](/assets/files/coremaths/Studentsolutions.zip)
