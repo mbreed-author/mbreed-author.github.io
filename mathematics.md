@@ -19,9 +19,14 @@ Oxford University Press, 2011
 
 OUP no longer provide the Online Resource Centre for this book. You can download the .zip files containing the Excel workbooks and problem solutions by clicking on the links below:
 <br/>
-* [Excel](/assets/files/coremaths/Excel.zip)
+* [Excel workbooks](/assets/files/coremaths/Excel.zip)
 * [Student solutions](/assets/files/coremaths/Studentsolutions.zip)
 * [Lecturer solutions](/assets/files/coremaths/Lecturersolutions.zip)
+* [Solutions to Excel problems](/assets/files/coremaths/cm-excelsolutions.zip)
+* [FNGraph download](/assets/files/coremaths/fng.zip)
+* [FNGraph input files for Part I](/assets/files/coremaths/fng-partI.zip)
+* [FNGraph input files for Part II](/assets/files/coremaths/fng-partII.zip)
+* [Errata](/assets/files/coremaths/cm-errata.pdf)
 <br/>If you have any difficulties, email me at martin@mbreed.co.uk
 <br/>
 <br/>
@@ -35,7 +40,7 @@ My PhD (University of Bath 1980) was on finite element techniques to model soil-
 ##### 1980 - 2001
 I was Principal Investigator on projects funded by EPSRC, British Coal and by Geodata SpA in Italy. These developed efficient techniques for the finite element modelling of rock tunnels.
 
-I also produced a finite element learning package, [FELIPE](http://www.felipe.co.uk/){:target="_blank"}. Contact me if you want a copy for your own study. 
+I also produced a finite element learning package, [FELIPE](http://www.felipe.co.uk/){:target="_blank"}. 
 
 
 ### Quasi-Newton methods for unconstrained optimisation
