@@ -24,6 +24,7 @@ To buy, go to your local Amazon page: [https://mybook.to/coremaths](https://mybo
 * [Student solutions](/assets/files/coremaths/Studentsolutions.zip)
 * [Lecturer solutions](/assets/files/coremaths/Lecturersolutions.zip)
 * [Solutions to Excel problems](/assets/files/coremaths/cm-excelsolutions.zip)
+* [Technical notes for installing FNGraph](/assets/files/coremaths/Technicalnotes25.pdf)
 * [FNGraph download](/assets/files/coremaths/fng.zip)
 * [FNGraph input files for Part I](/assets/files/coremaths/fng-partI.zip)
 * [FNGraph input files for Part II](/assets/files/coremaths/fng-partII.zip)
